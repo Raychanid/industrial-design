@@ -1,4 +1,4 @@
-# 日韩设计网站
+### 日韩设计网站
 
 [ 日本デザインセンター | Nippon Design Center, Inc. ](https://www.ndc.co.jp)
 
@@ -19,6 +19,12 @@
 [WEBデザインリンク集｜Good Design Web | Good Design WEBは秀逸な国内外のWEBサイトを紹介しているショーケースです。](http://gooddesignweb.com/)
 
 [I/O 3000 | Webデザインギャラリー](https://io3000.com/)
+
+### 获奖类网站
+
+[ iF WORLD DESIGN GUIDE](https://ifworlddesignguide.com/)
+
+[The Red Dot Design Award](https://www.red-dot.org/)
 
 
 ```markdown
