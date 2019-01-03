@@ -1,4 +1,4 @@
-###日韩设计网站
+# 日韩设计网站
 
 [ 日本デザインセンター | Nippon Design Center, Inc. ](https://www.ndc.co.jp)
 
@@ -20,9 +20,6 @@
 
 [I/O 3000 | Webデザインギャラリー](https://io3000.com/)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
