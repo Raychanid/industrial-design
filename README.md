@@ -1,6 +1,4 @@
-
-
-### 日韩设计网站
+# 日韩设计网站
 
 [ 日本デザインセンター | Nippon Design Center, Inc. ](https://www.ndc.co.jp)
 
@@ -22,7 +20,7 @@
 
 [I/O 3000 | Webデザインギャラリー](https://io3000.com/)
 
-### 竞赛类网站
+# 竞赛类网站
 
 [ iF WORLD DESIGN GUIDE](https://ifworlddesignguide.com/)
 
@@ -38,7 +36,7 @@
 
 [视觉me设计社区- 设计师&插画师交流平台！](http://shijue.me/)
 
-### 灵感类网站
+# 灵感类网站
 
 [站酷 (ZCOOL) - 设计师互动平台 - 打开站酷，发现更好的设计！](https://www.zcool.com.cn/)
 
@@ -60,7 +58,7 @@
 
 [第二自然](http://www.d2ziran.com/default/article.htm)
 
-###翻墙类网站
+# 翻墙类网站
 
 [pinterest](https://www.pinterest.com/)
 
@@ -78,7 +76,7 @@
 
 [Youtube](https://www.youtube.com/)
 
-### 神器类网站
+# 神器类网站
 ## COLOR
 [Find a Pantone Color | Quick Online Color Tool](https://www.pantone.com/color-finder#/pick?pantoneBook=pantoneSolidCoatedV3M2)
 
@@ -102,7 +100,7 @@
 
 [Sketch2Code - Transform sketches into HTML using AI](https://sketch2code.azurewebsites.net/)
 
-[Streamline 3.0 – The World's Largest Icon Library](https://streamlineicons.com/）
+[Streamline 3.0 – The World's Largest Icon Library](https://streamlineicons.com)
 
 [Free Logo Creator &amp; Logo Generator - Make a Logo In Seconds](https://logojoy.com/)
 
