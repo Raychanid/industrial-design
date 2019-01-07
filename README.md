@@ -1,4 +1,4 @@
-### markdown
+
 
 ### 日韩设计网站
 
@@ -60,6 +60,61 @@
 
 [第二自然](http://www.d2ziran.com/default/article.htm)
 
+###翻墙类网站
+
+[pinterest](https://www.pinterest.com/)
+
+[Behance :: 策展库](https://www.behance.net/galleries/6/%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1?content=projects&queues=5)
+
+[Tumblr](https://www.tumblr.com/dashboard#)
+
+[Things Organized Neatly: Happy New Year! Alex Gee, pouring more than 700...](http://thingsorganizedneatly.tumblr.com/post/181572383665/happy-new-year-alex-gee-pouring-more-than-700)
+
+[發掘 | Flickr](https://www.flickr.com/explore)
+
+[Instagram](https://www.instagram.com/terms/unblock/?next=/)
+
+[twitter](https://twitter.com/)
+
+[Youtube](https://www.youtube.com/)
+
+### 神器类网站
+## COLOR
+[Find a Pantone Color | Quick Online Color Tool](https://www.pantone.com/color-finder#/pick?pantoneBook=pantoneSolidCoatedV3M2)
+
+[Color collection - Material Design](https://material.io/collections/color/#!/?view.left=0&view.right=0)
+
+[Colors - House of van Schneider](http://www.vanschneider.com/colors)
+
+[Palettable](https://www.palettable.io/161026)
+
+[Picular](https://picular.co/)
+
+## COLORS
+
+[Khroma - The AI color tool for designers](http://khroma.co/train/)
+
+[Color Supply - A Hex Color Palette Generator](https://colorsupplyyy.com/app/)
+
+[Duotone by ShapeFactory | Create Beautiful Free Duotones](https://duotone.shapefactory.co/?f=10c5f8&t=6736dd)
+
+## UI
+
+[Sketch2Code - Transform sketches into HTML using AI](https://sketch2code.azurewebsites.net/)
+
+[Streamline 3.0 – The World's Largest Icon Library](https://streamlineicons.com/）
+
+[Free Logo Creator &amp; Logo Generator - Make a Logo In Seconds](https://logojoy.com/)
+
+## FONTS
+
+[FontPair - Helps you pair Google Fonts together]https://fontpair.co/)
+
+[Fonts.lol - A Color Font Type Foundry](http://www.fonts.lol/)
+
+## PAINT
+
+[PaintsChainer -线稿自动上色服务-]https://paintschainer.preferred.tech/index_zh.html)
 
 ```markdown
 
