@@ -127,10 +127,16 @@
 
 [Bigjpg - AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片](http://bigjpg.com/)
 
+# 微信类资源
 
-```markdown
-备注区域
-**Bold** and _Italic_ and `Code` text
+## _素材收集_
 
-[Link](url) and ![Image](src)
-```
+[工业设计俱乐部`的相关微信公众号文章 – 搜狗微信搜索`](https://weixin.sogou.com/weixin?type=2&query=%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1%E4%BF%B1%E4%B9%90%E9%83%A8&ie=utf8&s_from=input&_sug_=n&_sug_type_=1&w=01015002&oq=&ri=66&sourceid=sugg&sut=6846&sst0=1534208738388&lkt=0%2C0%2C0&p=40040108)
+
+[意翔设计`的相关微信公众号文章 – 搜狗微信搜索`](https://weixin.sogou.com/weixin?type=2&query=%E6%84%8F%E7%BF%94%E8%AE%BE%E8%AE%A1&ie=utf8&s_from=input&_sug_=n&_sug_type_=1&w=01015002&oq=&ri=66&sourceid=sugg&sut=0&sst0=1534208758799&lkt=0%2C0%2C0&p=40040108)
+
+[普象工业设计小站`的相关微信公众号文章 – 搜狗微信搜索`](https://weixin.sogou.com/weixin?type=2&query=%E6%99%AE%E8%B1%A1%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1%E5%B0%8F%E7%AB%99&ie=utf8&s_from=input&_sug_=n&_sug_type_=&w=01019900&sut=251&sst0=1534389427988&lkt=1%2C1534389427885%2C1534389427885)
+
+[**黄山手绘工厂**`的相关微信公众号文章 – 搜狗微信搜索`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E9%BB%84%E5%B1%B1%E6%89%8B%E7%BB%98%E5%B7%A5%E5%8E%82&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=14826&sst0=1533548819519&lkt=1%2C1533548819417%2C1533548819417)
+
+![id](https://www.designwanted.today/wp-content/uploads/2018/01/Industrial-Design-10-most-influential-product-designers-of-all-time.png)
