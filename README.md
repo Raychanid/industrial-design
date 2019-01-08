@@ -44,25 +44,25 @@
 
 ## 灵感类网站
 
-[站酷 (ZCOOL) - 设计师互动平台 - 打开站酷，发现更好的设计！](https://www.zcool.com.cn/)
+- [站酷 (ZCOOL) - 设计师互动平台 - 打开站酷，发现更好的设计！](https://www.zcool.com.cn/)
 
-[设计_好奇心日报](https://www.qdaily.com/categories/17.html)
+- [设计_好奇心日报](https://www.qdaily.com/categories/17.html)
 
-[Product Design | Yanko Design](http://www.yankodesign.com/category/productdesign/)
+- [Product Design | Yanko Design](http://www.yankodesign.com/category/productdesign/)
 
-[Design Milk: Design Blog with Interior Design, Modern Furniture, &amp; Art](https://design-milk.com/)
+- [Design Milk: Design Blog with Interior Design, Modern Furniture, &amp; Art](https://design-milk.com/)
 
-[Product Design - Core77](https://www.core77.com/Product-Design/?utm_source=navigation)
+- [Product Design - Core77](https://www.core77.com/Product-Design/?utm_source=navigation)
 
-[designboom magazine | your first source for architecture, design &amp; art news](https://www.designboom.com//)
+- [designboom magazine | your first source for architecture, design &amp; art news](https://www.designboom.com//)
 
-[Coroflot — Design Jobs &amp; Portfolios](https://www.coroflot.com/)
+- [Coroflot — Design Jobs &amp; Portfolios](https://www.coroflot.com/)
 
-[Products Archives - The Cool Hunter -The Cool Hunter](http://thecoolhunter.net/category/design/products/)
+- [Products Archives - The Cool Hunter -The Cool Hunter](http://thecoolhunter.net/category/design/products/)
 
-[普象网_普象工业设计小站_工业产品创意设计_原创分享交流](https://www.pushthink.com/)
+- [普象网_普象工业设计小站_工业产品创意设计_原创分享交流](https://www.pushthink.com/)
 
-[第二自然](http://www.d2ziran.com/default/article.htm)
+- [第二自然](http://www.d2ziran.com/default/article.htm)
 
 ## 翻墙类网站
 
@@ -89,7 +89,7 @@
 
 ## 微信类资源
 ### _素材收集_
-- [工业设计范儿的相关微信公众号文章 – 搜狗微信搜索](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1%E8%8C%83%E5%84%BF&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=14292&sst0=1534209049853&lkt=4%2C1534209035443%2C1534209049751)
+- [工业设计范儿`的相关微信公众号文章 – 搜狗微信搜索`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1%E8%8C%83%E5%84%BF&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=14292&sst0=1534209049853&lkt=4%2C1534209035443%2C1534209049751)
 - [工业设计俱乐部`的相关微信公众号文章 – 搜狗微信搜索`](https://weixin.sogou.com/weixin?type=2&query=%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1%E4%BF%B1%E4%B9%90%E9%83%A8&ie=utf8&s_from=input&_sug_=n&_sug_type_=1&w=01015002&oq=&ri=66&sourceid=sugg&sut=6846&sst0=1534208738388&lkt=0%2C0%2C0&p=40040108)
 - [意翔设计`的相关微信公众号文章 – 搜狗微信搜索`](https://weixin.sogou.com/weixin?type=2&query=%E6%84%8F%E7%BF%94%E8%AE%BE%E8%AE%A1&ie=utf8&s_from=input&_sug_=n&_sug_type_=1&w=01015002&oq=&ri=66&sourceid=sugg&sut=0&sst0=1534208758799&lkt=0%2C0%2C0&p=40040108)
 - [普象工业设计小站`的相关微信公众号文章 – 搜狗微信搜索`](https://weixin.sogou.com/weixin?type=2&query=%E6%99%AE%E8%B1%A1%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1%E5%B0%8F%E7%AB%99&ie=utf8&s_from=input&_sug_=n&_sug_type_=&w=01019900&sut=251&sst0=1534389427988&lkt=1%2C1534389427885%2C1534389427885)
@@ -106,6 +106,11 @@
 - [Colors - House of van Schneider](http://www.vanschneider.com/colors)
 - [Palettable](https://www.palettable.io/161026)
 - [Picular](https://picular.co/)
+- [Coolors](https://coolors.co/) - The super fast color schemes generator!.
+- [Colour Lovers](http://www.colourlovers.com/) - A creative community.
+- [Color Hunt](http://colorhunt.co/) - Color Hunt is a social platform for everyone who love colors.
+- [Brand Colors](http://brand-colors.com/) - A 1100+ color collection available in sass, less, stylus and css.
+
 
 ## COLORS
 
@@ -121,26 +126,45 @@
 
 - [Sketch2Code - Transform sketches into HTML using AI](https://sketch2code.azurewebsites.net/)
 
-- [Streamline 3.0 – The World's Largest Icon Library](https://streamlineicons.com)
+## ICONS
 
+- [Streamline 3.0 – The World's Largest Icon Library](https://streamlineicons.com)
 - [Free Logo Creator &amp; Logo Generator - Make a Logo In Seconds](https://logojoy.com/)
+ - [Use Iconic](https://useiconic.com/) - Meet Iconic. The definitive icon set designed for the modern web.
+- [Icon Finder](https://www.iconfinder.com/) - Search through 1,739,045 icons or browse 42,226 icon sets.
+- [We Love Icon Font](http://weloveiconfonts.com/) - This is a free & open source icon fonts hosting service.
+- [The Noun Project](https://thenounproject.com/) - Icons for everything.
+- [Iconmonstr](https://iconmonstr.com/) - Discover 3847+ free simple icons in 263 collections.
 
 ## FONTS
 
 - [FontPair - Helps you pair Google Fonts together](https://fontpair.co/)
-
+- [Open Foundry](http://open-foundry.com/) - A new platform for open-source fonts in a noise-free environment.
+- [Use & Modify](http://usemodify.com/) - Provide a contemporary set of fonts distributed under libre or open source licences, hand picked by a typography and free culture lover.
+- [Font Fabric](http://www.fontfabric.com/) - Fontfabric is an independent type foundry.
+- [Font Squirrel](https://www.fontsquirrel.com/) - Free Font Utopia.
+- [Play Type](https://playtype.com/) - Browse through our selection of more than a hundred fonts and nearly 500 different font weights.
+- [Identyfont](http://www.identifont.com/index.html) - Identify a font by answering questions about key features.
 - [Fonts.lol - A Color Font Type Foundry](http://www.fonts.lol/)
-
+- [Font Picker](http://www.fontpicker.io/) - A webfont library for your browser.
+- [Font Reach](http://www.fontreach.com/) - FontReach scans the top million sites to show font usage across the web.
 ## PAINT
-
-
 - [PaintsChainer -线稿自动上色服务-](https://paintschainer.preferred.tech/index_zh.html)
 
 ## PICTURE
 
-- [Bigjpg - AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片](http://bigjpg.com/)
-
-
+- [Bigjpg](http://bigjpg.com/)- AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片
+- [Unsplash](https://unsplash.com/) - Free (do whatever you want) - high-resolution photos.
+- [StockSnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly.
+- [Pixbay](https://pixabay.com/) - Free images and videos you can use anywhere.
+- [Jay Mantry](http://jaymantri.com/) - free pics. do anything (CC0) -. make magic.
+- [The Stock](http://thestocks.im/) - The best royalty free stock photos are delivered now along with videos, audios, icons, fonts and colors.
+- [Get Refe](http://getrefe.tumblr.com/) - Royalty-free, high-quality, Real Life photos.
+- [ISO Republic](http://isorepublic.com/) - ISO Republic provides free stock photos for creative professionals.
+- [All The Free Stock](http://allthefreestock.com/) - Get all the Free Stock Images, Videos, Music and Icons in one location.
+- [Pexels](https://www.pexels.com) - Free stock images in a range of styles including filtered, natural, and commercial.
+## Videos
+- [Vimeo](https://vimeo.com/channels/freestockfootage/) - Royalty Free Stock Video for Free Personal, Corporate or Commercial Use.
 ## Research
 #### Methods
 ###### Research Plan
@@ -307,11 +331,6 @@
 - [UX Checklist](http://uxchecklist.github.io/) - UX Project Checklist.
 108
 - [UX Stackexchange](https://ux.stackexchange.com/) - UX Stack Exchange is a question and answer site.
-109
-​
-110
-## UI
-111
 #### Guidelines
 112
 - [iOS Guidelines](https://developer.apple.com/design/) - Get in-depth information and UI resources for designing great apps that integrate seamlessly with Apple platforms.
@@ -374,67 +393,6 @@
 - [Logo Book](http://www.logobook.com/) - Discover the worlds finest logos, symbols & trademarks.
 142
 - [Awesome Sketch](https://github.com/diessica/awesome-sketch) - A curated list of awesome Sketch videos, articles, plugins, whatever, for designers, developers, or neither.
-143
-#### Icons
-144
-- [Use Iconic](https://useiconic.com/) - Meet Iconic. The definitive icon set designed for the modern web.
-145
-- [Icon Finder](https://www.iconfinder.com/) - Search through 1,739,045 icons or browse 42,226 icon sets.
-146
-- [We Love Icon Font](http://weloveiconfonts.com/) - This is a free & open source icon fonts hosting service.
-147
-- [The Noun Project](https://thenounproject.com/) - Icons for everything.
-148
-- [Iconmonstr](https://iconmonstr.com/) - Discover 3847+ free simple icons in 263 collections.
-149
-#### Font Foundries
-150
-- [Open Foundry](http://open-foundry.com/) - A new platform for open-source fonts in a noise-free environment.
-151
-- [Use & Modify](http://usemodify.com/) - Provide a contemporary set of fonts distributed under libre or open source licences, hand picked by a typography and free culture lover.
-152
-- [Font Fabric](http://www.fontfabric.com/) - Fontfabric is an independent type foundry.
-153
-- [Font Squirrel](https://www.fontsquirrel.com/) - Free Font Utopia.
-154
-- [Play Type](https://playtype.com/) - Browse through our selection of more than a hundred fonts and nearly 500 different font weights.
-155
-- [Identyfont](http://www.identifont.com/index.html) - Identify a font by answering questions about key features.
-156
-#### Colors
-157
-- [Coolors](https://coolors.co/) - The super fast color schemes generator!.
-158
-- [Colour Lovers](http://www.colourlovers.com/) - A creative community.
-159
-- [Color Hunt](http://colorhunt.co/) - Color Hunt is a social platform for everyone who love colors.
-160
-- [Brand Colors](http://brand-colors.com/) - A 1100+ color collection available in sass, less, stylus and css.
-161
-#### Stock Images
-162
-- [Unsplash](https://unsplash.com/) - Free (do whatever you want) - high-resolution photos.
-163
-- [StockSnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly.
-164
-- [Pixbay](https://pixabay.com/) - Free images and videos you can use anywhere.
-165
-- [Jay Mantry](http://jaymantri.com/) - free pics. do anything (CC0) -. make magic.
-166
-- [The Stock](http://thestocks.im/) - The best royalty free stock photos are delivered now along with videos, audios, icons, fonts and colors.
-167
-- [Get Refe](http://getrefe.tumblr.com/) - Royalty-free, high-quality, Real Life photos.
-168
-- [ISO Republic](http://isorepublic.com/) - ISO Republic provides free stock photos for creative professionals.
-169
-- [All The Free Stock](http://allthefreestock.com/) - Get all the Free Stock Images, Videos, Music and Icons in one location.
-170
-- [Pexels](https://www.pexels.com) - Free stock images in a range of styles including filtered, natural, and commercial.
-171
-#### Stock Videos
-172
-- [Vimeo](https://vimeo.com/channels/freestockfootage/) - Royalty Free Stock Video for Free Personal, Corporate or Commercial Use.
-173
 #### Tools
 174
 - [Pattern Lab](http://patternlab.io/) - Create atomic design systems with Pattern Lab.
@@ -447,10 +405,7 @@
 178
 - [Skala Color](https://bjango.com/mac/skalacolor/) - An extraordinary color picker for designers and developers.
 179
-- [Font Picker](http://www.fontpicker.io/) - A webfont library for your browser.
-180
-- [Font Reach](http://www.fontreach.com/) - FontReach scans the top million sites to show font usage across the web.
-181
+
 ​
 182
 ## Prototype
