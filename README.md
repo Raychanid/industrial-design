@@ -88,58 +88,57 @@
 [Adobe Create Magazine](https://create.adobe.com/)
 
 ## 微信类资源
-
-
-## _素材收集_
--[工业设计俱乐部`的相关微信公众号文章 – 搜狗微信搜索`](https://weixin.sogou.com/weixin?type=2&query=%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1%E4%BF%B1%E4%B9%90%E9%83%A8&ie=utf8&s_from=input&_sug_=n&_sug_type_=1&w=01015002&oq=&ri=66&sourceid=sugg&sut=6846&sst0=1534208738388&lkt=0%2C0%2C0&p=40040108)
--[意翔设计`的相关微信公众号文章 – 搜狗微信搜索`](https://weixin.sogou.com/weixin?type=2&query=%E6%84%8F%E7%BF%94%E8%AE%BE%E8%AE%A1&ie=utf8&s_from=input&_sug_=n&_sug_type_=1&w=01015002&oq=&ri=66&sourceid=sugg&sut=0&sst0=1534208758799&lkt=0%2C0%2C0&p=40040108)
--[普象工业设计小站`的相关微信公众号文章 – 搜狗微信搜索`](https://weixin.sogou.com/weixin?type=2&query=%E6%99%AE%E8%B1%A1%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1%E5%B0%8F%E7%AB%99&ie=utf8&s_from=input&_sug_=n&_sug_type_=&w=01019900&sut=251&sst0=1534389427988&lkt=1%2C1534389427885%2C1534389427885)
--[黄山手绘工厂`的相关微信公众号文章 – 搜狗微信搜索`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E9%BB%84%E5%B1%B1%E6%89%8B%E7%BB%98%E5%B7%A5%E5%8E%82&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=14826&sst0=1533548819519&lkt=1%2C1533548819417%2C1533548819417)
-![id](img src="https://www.designwanted.today/wp-content/uploads/2018/01/Industrial-Design-10-most-influential-product-designers-of-all-time.png "align="right" width="100")
+### _素材收集_
+- [工业设计范儿的相关微信公众号文章 – 搜狗微信搜索](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1%E8%8C%83%E5%84%BF&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=14292&sst0=1534209049853&lkt=4%2C1534209035443%2C1534209049751）
+- [工业设计俱乐部`的相关微信公众号文章 – 搜狗微信搜索`](https://weixin.sogou.com/weixin?type=2&query=%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1%E4%BF%B1%E4%B9%90%E9%83%A8&ie=utf8&s_from=input&_sug_=n&_sug_type_=1&w=01015002&oq=&ri=66&sourceid=sugg&sut=6846&sst0=1534208738388&lkt=0%2C0%2C0&p=40040108)
+- [意翔设计`的相关微信公众号文章 – 搜狗微信搜索`](https://weixin.sogou.com/weixin?type=2&query=%E6%84%8F%E7%BF%94%E8%AE%BE%E8%AE%A1&ie=utf8&s_from=input&_sug_=n&_sug_type_=1&w=01015002&oq=&ri=66&sourceid=sugg&sut=0&sst0=1534208758799&lkt=0%2C0%2C0&p=40040108)
+- [普象工业设计小站`的相关微信公众号文章 – 搜狗微信搜索`](https://weixin.sogou.com/weixin?type=2&query=%E6%99%AE%E8%B1%A1%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1%E5%B0%8F%E7%AB%99&ie=utf8&s_from=input&_sug_=n&_sug_type_=&w=01019900&sut=251&sst0=1534389427988&lkt=1%2C1534389427885%2C1534389427885)
+- [黄山手绘工厂`的相关微信公众号文章 – 搜狗微信搜索`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E9%BB%84%E5%B1%B1%E6%89%8B%E7%BB%98%E5%B7%A5%E5%8E%82&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=14826&sst0=1533548819519&lkt=1%2C1533548819417%2C1533548819417)
+![id](https://www.designwanted.today/wp-content/uploads/2018/01/Industrial-Design-10-most-influential-product-designers-of-all-time.png align="right" width="100")
 
 # 神器类网站
 
 
 ## COLOR
 
--[Find a Pantone Color | Quick Online Color Tool](https://www.pantone.com/color-finder#/pick?pantoneBook=pantoneSolidCoatedV3M2)
--[Color collection - Material Design](https://material.io/collections/color/#!/?view.left=0&view.right=0)
--[Colors - House of van Schneider](http://www.vanschneider.com/colors)
--[Palettable](https://www.palettable.io/161026)
--[Picular](https://picular.co/)
+- [Find a Pantone Color | Quick Online Color Tool](https://www.pantone.com/color-finder#/pick?pantoneBook=pantoneSolidCoatedV3M2)
+- [Color collection - Material Design](https://material.io/collections/color/#!/?view.left=0&view.right=0)
+- [Colors - House of van Schneider](http://www.vanschneider.com/colors)
+- [Palettable](https://www.palettable.io/161026)
+- [Picular](https://picular.co/)
 
 ## COLORS
 
 
--[Khroma - The AI color tool for designers](http://khroma.co/train/)
+- [Khroma - The AI color tool for designers](http://khroma.co/train/)
 
--[Color Supply - A Hex Color Palette Generator](https://colorsupplyyy.com/app/)
+- [Color Supply - A Hex Color Palette Generator](https://colorsupplyyy.com/app/)
 
--[Duotone by ShapeFactory | Create Beautiful Free Duotones](https://duotone.shapefactory.co/?f=10c5f8&t=6736dd)
+- [Duotone by ShapeFactory | Create Beautiful Free Duotones](https://duotone.shapefactory.co/?f=10c5f8&t=6736dd)
 
 ## UI
 
 
--[Sketch2Code - Transform sketches into HTML using AI](https://sketch2code.azurewebsites.net/)
+- [Sketch2Code - Transform sketches into HTML using AI](https://sketch2code.azurewebsites.net/)
 
--[Streamline 3.0 – The World's Largest Icon Library](https://streamlineicons.com)
+- [Streamline 3.0 – The World's Largest Icon Library](https://streamlineicons.com)
 
--[Free Logo Creator &amp; Logo Generator - Make a Logo In Seconds](https://logojoy.com/)
+- [Free Logo Creator &amp; Logo Generator - Make a Logo In Seconds](https://logojoy.com/)
 
 ## FONTS
 
--[FontPair - Helps you pair Google Fonts together](https://fontpair.co/)
+- [FontPair - Helps you pair Google Fonts together](https://fontpair.co/)
 
--[Fonts.lol - A Color Font Type Foundry](http://www.fonts.lol/)
+- [Fonts.lol - A Color Font Type Foundry](http://www.fonts.lol/)
 
 ## PAINT
 
 
--[PaintsChainer -线稿自动上色服务-](https://paintschainer.preferred.tech/index_zh.html)
+- [PaintsChainer -线稿自动上色服务-](https://paintschainer.preferred.tech/index_zh.html)
 
 ## PICTURE
 
--[Bigjpg - AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片](http://bigjpg.com/)
+- [Bigjpg - AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片](http://bigjpg.com/)
 
 
 ## Research
@@ -149,73 +148,69 @@
 - [NN Group](https://www.nngroup.com/articles/pm-research-plan/) - Project Management for User Research: The Plan.
 - [Interaction Design](https://www.interaction-design.org/literature/article/a-one-page-user-research-plan) - A One Page User Research Plan.
 ###### User Interview
-27
-- [NN Group](https://www.nngroup.com/articles/interviewing-users/) - Despite many weaknesses, interviews are a valuable method for exploratory user research.
-28
-- [UXDesign.cc](https://uxdesign.cc/how-to-get-the-most-out-of-user-interviews-c5d0cd4499b5) - How to Get the Most Out of User Interviews.
-29
+- [NN Group](https://www.nngroup.com/articles/interviewing-users/) - Despite many weaknesses, interviews are a valuable method for exploratory user research
+- [UXDesign.cc](https://uxdesign.cc/how-to-get-the-most-out-of-user-interviews-c5d0cd4499b5) - How to Get the Most Out of User Interviews
 ###### Stakeholder Interviews
-30
 - [Boxes and Arrows](http://boxesandarrows.com/a-stakeholder-interview-checklist/) - A Cheat Sheet For Interviewing Stakeholders.
-31
+
 - [UX Apprentice](https://www.uxapprentice.com/resources/stakeholder-interview-template/) - Stakeholder Interview Template.
-32
+
 - [Interaction Design](https://www.interaction-design.org/literature/article/preparing-for-ux-stakeholder-interviews) - Preparing for UX Stakeholder Interviews.
-33
+
 ###### Research Synthesis
-34
+
 - [UX Movement](http://uxmovement.com/thinking/how-to-turn-user-research-into-usable-data/) - How to Turn User Research into Usable Data.
-35
+
 - [SlideShare](https://www.slideshare.net/HJKwon3/design-research-synthesis) - Design Research Synthesis.
-36
+
 - [Medium](https://medium.com/product-labs/using-trello-for-user-research-synthesis-fb1abdfc7c4b) - Using Trello for User Research Synthesis.
-37
+
 - [Tuts+](https://webdesign.tutsplus.com/tutorials/how-to-prepare-and-use-an-affinity-diagram--cms-28388) - How to Prepare and Use an Affinity Diagram.
-38
+
 - [Medium](https://medium.com/learning-ux/affinity-diagrams-tips-and-tricks-6225e8c1f0df) - Affinity Diagrams: Tips and Tricks.
-39
+
 ###### Competitive Analysis
-40
+
 - [Xtensio](https://xtensio.com/how-to-create-a-competitive-analysis/) - How To: Create A Competitive Analysis.
-41
+
 - [Hootsuite](https://blog.hootsuite.com/the-ultimate-competitive-analysis-template/) - A Competitive Analysis Template To Help You Outsmart The Competition.
-42
+
 ###### Job to be Done
-43
+
 - [Intercom](https://blog.intercom.com/using-job-stories-design-features-ui-ux/) - Designing features using Job Stories.
-44
+
 - [JTBD](https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27) - Replacing The User Story With The Job Story.
-45
+
 ###### Personas
-46
+
 - [Usability.Gov](https://www.usability.gov/how-to-and-tools/methods/personas.html) - The purpose of personas is to create reliable and realistic representations of your key audience.
-47
+
 - [UX Mag](https://uxmag.com/articles/personas-the-foundation-of-a-great-user-experience) - Personas: The Foundation of a Great User Experience.
-48
+
 - [Tuts+](https://webdesign.tutsplus.com/articles/defining-and-applying-personas-to-ux-design--webdesign-7561) - Defining And Applying Personas to UX Design.
-49
+
 ###### Empathy Map
-50
+
 - [UX Pin](https://www.uxpin.com/studio/blog/the-practical-guide-to-empathy-maps-creating-a-10-minute-persona/) - The Practical Guide to Empathy Maps: 10-Minute User Personas.
-51
+
 - [Boagworld](https://boagworld.com/usability/adapting-empathy-maps-for-ux-design/) - Adapting empathy maps for UX design.
-52
+
 ###### Storyboard
-53
+
 - [UX Magazine](http://uxmag.com/articles/storyboarding-in-the-software-design-process) - Storyboarding in the Software Design Process.
-54
+
 - [Medium](https://uxplanet.org/storyboarding-in-ux-design-b9d2e18e5fab) - Storyboarding in UX Design.
-55
+
 - [Johnny Holland](http://johnnyholland.org/2011/10/storyboarding-ux-part-1-an-introduction/) - Storyboarding & UX.
-56
+
 - [NN Group](https://www.nngroup.com/articles/customer-journey-mapping/) - When and How to Create Customer Journey Maps.
-57
+
 - [UX Lady](http://www.ux-lady.com/experience-maps-user-journey-and-more-exp-map-layout/) - Experience maps, user journeys and more.
-58
+
 - [Smashing Magazine](https://www.smashingmagazine.com/2015/01/all-about-customer-journey-mapping/) - All You Need To Know About Customer Journey Mapping.
-59
+
 - [Medium](https://medium.com/@wnialloconnor/how-to-build-an-experience-map-5e55b7ee4f32) - How to build an experience map.
-60
+
 #### Articles
 61
 - [Smashing Magazine](https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/) - The Rainbow Spreadsheet: A Collaborative Lean UX Research Tool.
