@@ -118,7 +118,7 @@
 - [Colour Lovers](http://www.colourlovers.com/) - A creative community.
 - [Color Hunt](http://colorhunt.co/) - Color Hunt is a social platform for everyone who love colors.
 - [Brand Colors](http://brand-colors.com/) - A 1100+ color collection available in sass, less, stylus and css.
-
+- [Pigment by ShapeFactory | Simple Color Palette Generator](https://pigment.shapefactory.co/)
 
 ## COLORS
 
