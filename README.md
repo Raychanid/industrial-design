@@ -104,7 +104,9 @@
 - [黄山手绘工厂`的相关微信公众号文章 – 搜狗微信搜索`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E9%BB%84%E5%B1%B1%E6%89%8B%E7%BB%98%E5%B7%A5%E5%8E%82&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=14826&sst0=1533548819519&lkt=1%2C1533548819417%2C1533548819417))
 ### _数据收集_
 - [三联生活周刊](https://weixin.sogou.com/weixin?type=2&ie=utf8&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A)
-- [
+- [好奇心日报](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E5%A5%BD%E5%A5%87%E5%BF%83%E6%97%A5%E6%8A%A5&ie=utf8&_sug_=n&_sug_type_=1&w=01015002&oq=&ri=66&sourceid=sugg&sut=0&sst0=1534209015051&lkt=0%2C0%2C0&p=40040108)
+- [商业周刊中文版](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E5%95%86%E4%B8%9A%E5%91%A8%E5%88%8A%E4%B8%AD%E6%96%87%E7%89%88&ie=utf8&_sug_=y&_sug_type_=1&w=01015002&oq=%E5%95%86%E4%B8%9A&ri=0&sourceid=sugg&stj=0%3B0%3B0%3B0&stj2=0&stj0=0&stj1=0&hp=36&hp1=&sut=26931&sst0=1534210239950&lkt=0%2C0%2C0)
+
 ![id](https://)
 
 # 神器类网站
