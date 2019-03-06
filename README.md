@@ -1,4 +1,4 @@
-## 产品类（厨房）{:target = "_blank"} 
+## 产品类（厨房）
 - [Umbra](https://www.umbra.com/) - Shop Modern Home Décor  
 - [Guzzini](http://www.guzzini.com)  - Kitchens Gadgets &amp; Kitchen Utensils | Official eshop Guzzini  
 - [simplehuman ](https://www.simplehuman.com/)  - tools for efficient living
@@ -9,10 +9,24 @@
 - [inomata-k](http://www.inomata-k.co.jp/)  - イノマタ化学｜ホームページ
 - [koziol](http://www.koziol-shop.de/) - koziol Online Shop | Willkommen
 - [창신몰](http://www.changsinmall.com/) -생활수납용품 전문 제조회사
-- [ＳＰソース](https://www.sp-sauce.com/)  - ノベルティグッズの「ＳＰソース」通販ホームページ 
+- [ＳＰソース](https://www.sp-sauce.com/)  - ノベルティグッズの「ＳＰソース」通販ホームページ `日本淘宝`   
 - [ Joseph Joseph ](https://www.josephjoseph.com/en-us/) - Smart Kitchenware &amp; Baking Tools
 - [ IKEA ](https://www.ikea.com/)  – International homepage 
 
+*1*
+
+**2**
+
+***3***
+    4
+>5
+>>6
+
+***
+
+- - - -
+
+---
 
 ## 日韩设计网站
 
