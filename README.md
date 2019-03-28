@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Raychanid-ID-blue.svg)
+
 产品类别
 ===
 
