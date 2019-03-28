@@ -2,6 +2,29 @@
 
 <div align=center><img src="https://img.shields.io/badge/Raychanid-ID-blue.svg" width="150" height="30"  alt="ID"/></div>
  
+ ```
+gantt
+dateFormat YYYY-MM-DD
+title 产品开发计划表
+section 初期阶段  
+明确需求:2017-04-11,10d
+section 中期阶段  
+跟进开发:2017-04-22,10d
+section 后期阶段  
+走查测试:2017-05-03,20d
+
+```
+
+```
+graph TD
+A[NO.1]-->B(No.2)
+B --> C{think}
+    C -->|是| C1[No.3]
+    C -->|否| C2[No.4]
+    C -->|随机|D[No.4]
+    
+```
+
  待解释文字[^1]
 [1]:注释内容
 
@@ -75,7 +98,7 @@ _ _ _
 `高亮效果`
 
 |  键盘空格   |  半角空格  |  全角空格 |
-| :-----：  | :----- : |  ：----- : |
+|  -:  | :-: |  :- |
 |  *&nbsp;*      |     _&ensp;_  |  &emsp; |
 |  **&#160;**    |   __&#8194;__  | &#8195; |
 |  ***en space, U+2002 ISOpub*** | ___em space, U+2003 ISOpub___  |
