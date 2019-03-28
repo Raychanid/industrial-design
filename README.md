@@ -2,10 +2,22 @@
 
 <div align=center><img src="https://img.shields.io/badge/Raychanid-ID-blue.svg" width="150" height="30"  alt="ID"/></div>
  
- ```
-gantt
-dateFormat YYYY-MM-DD
-title 产品开发计划表
+ ```html
+<ul>
+
+**gantt**
+    <li>dateFormat YYYY-MM-DD</li>
+    <li># 大标题</li>
+    <li>## title 产品开发计划表</li>
+    <li>### 三级标题</li>
+    <li>#### 四级标题</li>
+    <li>##### 五级标题</li>
+    <li>###### 六级标题</li>
+</ul> 
+
+
+
+
 section 初期阶段  
 明确需求:2017-04-11,10d
 section 中期阶段  
@@ -16,7 +28,7 @@ section 后期阶段
 ```
 
 ```
-graph TD
+***graph TD***
 A[NO.1]-->B(No.2)
 B --> C{think}
     C -->|是| C1[No.3]
@@ -68,9 +80,9 @@ B --> C{think}
 
 
 
-**2**
 
-***3***
+
+
    
    
 4
@@ -107,15 +119,7 @@ _ _ _
 |  ~~***粗斜体删除线***~~  |  ~~___粗斜体删除线___~~  |
 
 ```html
-<ul>
-    <li>这里是html标签语法</li>
-    <li># 大标题</li>
-    <li>## 二级标题</li>
-    <li>### 三级标题</li>
-    <li>#### 四级标题</li>
-    <li>##### 五级标题</li>
-    <li>###### 六级标题</li>
-</ul> 
+
 ```
 
 <del>**失效网站**</del>
