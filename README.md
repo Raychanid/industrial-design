@@ -43,14 +43,122 @@
 **2**
 
 ***3***
-    4
+   
+   
+4
 >5
 >>6
-- - - -
-***
----
 
-* 日韩设计网站*
+
+***
+* * *
+---
+- - -
+___
+_ _ _
+
+
+类 Setext  (只有2级)
+=====
+类 Setext
+-----
+
+# 类 Atx  (只有6级)
+### 类 Atx 
+###### 类 Atx 
+
+`高亮效果`
+
+|  键盘空格   |  半角空格  |  全角空格 |
+| :------:  | :------: | :------: |
+|  *&nbsp;*      |     _&ensp;_  |  &emsp; |
+|  **&#160;**    |   __&#8194;__  | &#8195; |
+|  ***en space, U+2002 ISOpub*** | ___em space, U+2003 ISOpub___  |
+|  ~~删除线~~    |       |
+|  ***~~粗斜体删除线~~***  |  ___~~粗斜体删除线~~___  |
+|  ~~***粗斜体删除线***~~  |  ~~___粗斜体删除线___~~  |
+
+```html
+<ul>
+    <li>这里是html标签语法</li>
+    <li># 大标题</li>
+    <li>## 二级标题</li>
+    <li>### 三级标题</li>
+    <li>#### 四级标题</li>
+    <li>##### 五级标题</li>
+    <li>###### 六级标题</li>
+</ul> 
+```
+
+<del>**失效网站**</del>
+
+![alt](URL title)
+
+![alt][ID]
+[ID]:URL title
+
+
+[content]( URL title)
+
+ 
+[content][ID]
+[ID]:URL title
+
+ 
+[img]( URL title)
+
+ 
+[img][ID]
+[ID]:URL title
+
+[text][]
+[text]:URL title
+
+[title](#title)
+
+<table>
+    <tr>
+        <th>表头1</th>
+        <th>表头2</th>
+        <th>表头2</th>
+    </tr>
+    <tr>
+        <td align="left">表格项1</td>
+        <td align="center">表格项2</td>
+        <td align="right">表格项2</td>
+    </tr>
+    <tr>
+        <td align="left">给定一个参考项</td>
+        <td align="center">可看出其对齐的内容</td>
+        <td align="right">是否如实实现了各种对齐</td>
+    </tr>
+    <tr>
+        <td align="left">有多行表格</td>
+        <td align="center">参考依据</td>
+        <td align="right">一目了然</td>
+    </tr>
+</table>
+
+<div style="color:red;">这里有代码显示</div>
+
+```C
+
+```
+
+
+* [ ] public static void main(String[]args){} //Java
+* [x] int main(void)
+{
+    printf("Hello, world!");
+    return 0;
+} //C
+* [ ] echo "hello GitHub" #Bash
+* [ ] document.write("Hello World!") //javascript
+* [x] string &operator+(const string& A,const string& B) //cpp
+
+:blush:
+
+##  *日韩设计网站*
 
 
 [ 日本デザインセンター | Nippon Design Center, Inc. ](https://www.ndc.co.jp)
