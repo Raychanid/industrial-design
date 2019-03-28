@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Raychanid-ID-blue.svg width="400" height="100" alt="ID"/)<>
+![](https://img.shields.io/badge/Raychanid-ID-blue.svg)<img src="https:// huaban.com/pins/2336989157 " width="400" height="100" alt="ID"/>
 
 产品类别
 ===
