@@ -4,27 +4,16 @@
  
  ```html
 <ul>
-
-**gantt**
-    <li>dateFormat YYYY-MM-DD</li>
-    <li># 大标题</li>
+    <li>**gantt**</li>
+    <li># dateFormat YYYY-MM-DD</li>
     <li>## title 产品开发计划表</li>
-    <li>### 三级标题</li>
-    <li>#### 四级标题</li>
-    <li>##### 五级标题</li>
-    <li>###### 六级标题</li>
-</ul> 
-
-
-
-
-section 初期阶段  
-明确需求:2017-04-11,10d
-section 中期阶段  
-跟进开发:2017-04-22,10d
-section 后期阶段  
-走查测试:2017-05-03,20d
-
+    <li>### section 初期阶段 </li>
+    <li>#### 明确需求:2017-04-11,10d</li>
+    <li>##### section 中期阶段 </li>
+    <li>###### 跟进开发:2017-04-22,10d</li>
+ <li>###### section 后期阶段  </li>
+<li>###### 走查测试:2017-05-03,20d</li>
+</ul>
 ```
 
 ```
