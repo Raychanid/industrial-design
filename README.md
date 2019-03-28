@@ -1,6 +1,9 @@
 ![](https://img.shields.io/badge/Raychanid-ID-blue.svg)
 
 <div align=center><img src="https://img.shields.io/badge/Raychanid-ID-blue.svg" width="150" height="30"  alt="ID"/></div>
+ 
+ 待解释文字[^1]
+[1]:注释内容
 
 产品类别
 ===
@@ -39,8 +42,7 @@
 - [Danaher](https://www.danaher.com/) - Global science &amp; technology innovator
 - [ Agilent](https://www.agilent.com/) - Chemical Analysis, Life Sciences, and Diagnostics
 
-待解释文字[^1]
-[1]:注释内容
+
 
 
 **2**
@@ -73,7 +75,7 @@ _ _ _
 `高亮效果`
 
 |  键盘空格   |  半角空格  |  全角空格 |
-| :-  | :- : |  - : |
+| :-----  | :----- : |  ----- : |
 |  *&nbsp;*      |     _&ensp;_  |  &emsp; |
 |  **&#160;**    |   __&#8194;__  | &#8195; |
 |  ***en space, U+2002 ISOpub*** | ___em space, U+2003 ISOpub___  |
