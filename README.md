@@ -22,10 +22,7 @@
 - [Guzzini](http://www.guzzini.com)  - Kitchens Gadgets &amp; Kitchen Utensils | Official eshop Guzzini  
 - [simplehuman ](https://www.simplehuman.com/)  - tools for efficient living
 - [ASVEL](http://www.asvel.co.jp/product/index.html)  - 製品紹介 | ASVEL-アスベル
-- [Yamazaki](http://www.theyamazaki.com/)  - A manufacturer specializing in interior goods for over 60 years ? Yamazaki Co. Ltd.![](https://img.shields.io/badge/Raychanid-ID-blue.svg)
-
-<div align=center><img src="https://img.shields.io/badge/Raychanid-ID-blue.svg" width="150" height="30"  alt="ID"/></div>
-
+- [Yamazaki](http://www.theyamazaki.com/)  - A manufacturer specializing in interior goods for over 60 years ? Yamazaki Co. Ltd.
 
 # 编程
 ## 在线编辑器
@@ -96,72 +93,47 @@
 ## 竞赛类网站
 
 
-[ iF WORLD DESIGN GUIDE](https://ifworlddesignguide.com/)
-
-[The Red Dot Design Award](https://www.red-dot.org/)
-
-[Good Design Award](http://www.g-mark.org)
-
-[首页_红星奖官网](http://www.redstaraward.org/index.html)
-
-[Industrial Designers Society of America - IDSA](http://www.idsa.org/)
-
-[K-DESIGN AWARD](http://kdesignaward.com/exhibition)
-
-[视觉me设计社区- 设计师&插画师交流平台！](http://shijue.me/)
+- [ iF WORLD DESIGN GUIDE](https://ifworlddesignguide.com/)
+- [The Red Dot Design Award](https://www.red-dot.org/)
+- [Good Design Award](http://www.g-mark.org)
+- [首页_红星奖官网](http://www.redstaraward.org/index.html)
+- [Industrial Designers Society of America - IDSA](http://www.idsa.org/)
+- [K-DESIGN AWARD](http://kdesignaward.com/exhibition)
+- [视觉me设计社区- 设计师&插画师交流平台！](http://shijue.me/)
 
 ## 创意类网站
 
 - [创意设计 创意产品 创意广告 - 玩意儿](http://www.cngadget.cn/)
 - [设计  | 理想生活实验室 - 为更理想的生活](https://www.toodaylab.com/field/302)
-
 - [专利之家-设计发明与创意商机 - 专利之家-设计发明与创意商机](http://www.patent-cn.com/)
-
 - [设计 | TOPYS 全球顶尖创意分享平台 OPEN YOUR MIND](https://www.topys.cn/category/12.html)
-
 - [专利检索及分析](http://www.pss-system.gov.cn/sipopublicsearch/portal/uiIndex.shtml)需注册
 
 
 ## 灵感类网站
 
 - [站酷 (ZCOOL) - 设计师互动平台 - 打开站酷，发现更好的设计！](https://www.zcool.com.cn/)
-
 - [设计_好奇心日报](https://www.qdaily.com/categories/17.html)
-
 - [Product Design | Yanko Design](http://www.yankodesign.com/category/productdesign/)
-
 - [Design Milk: Design Blog with Interior Design, Modern Furniture, &amp; Art](https://design-milk.com/)
-
 - [Product Design - Core77](https://www.core77.com/Product-Design/?utm_source=navigation)
-
 - [designboom magazine | your first source for architecture, design &amp; art news](https://www.designboom.com//)
-
 - [Coroflot — Design Jobs &amp; Portfolios](https://www.coroflot.com/)
-
 - [Products Archives - The Cool Hunter -The Cool Hunter](http://thecoolhunter.net/category/design/products/)
-
 - [普象网_普象工业设计小站_工业产品创意设计_原创分享交流](https://www.pushthink.com/)
-
 - [第二自然](http://www.d2ziran.com/default/article.htm)
 
 ## 翻墙类网站
 
 
-[pinterest](https://www.pinterest.com/)
-
-[Behance :: 策展库](https://www.behance.net/galleries/6/%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1?content=projects&queues=5)
-
-[Tumblr](https://www.tumblr.com/dashboard#)
-
-[Things Organized Neatly: Happy New Year! Alex Gee, pouring more than 700...](http://thingsorganizedneatly.tumblr.com/post/181572383665/happy-new-year-alex-gee-pouring-more-than-700)
-
-[發掘 | Flickr](https://www.flickr.com/explore)
-
-[Instagram](https://www.instagram.com/terms/unblock/?next=/)
-
-[twitter](https://twitter.com/)
-
-[Youtube](https://www.youtube.com/)
+- [pinterest](https://www.pinterest.com/)
+- [Behance :: 策展库](https://www.behance.net/galleries/6/%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1?content=projects&queues=5)
+- [Tumblr](https://www.tumblr.com/dashboard#)
+- [Things Organized Neatly](http://thingsorganizedneatly.tumblr.com/post/181572383665/happy-new-year-alex-gee-pouring-more-than-700)
+- [發掘 | Flickr](https://www.flickr.com/explore) -Happy New Year! Alex Gee, pouring more than 700...
+- [Instagram](https://www.instagram.com/terms/unblock/?next=/)
+- [twitter](https://twitter.com/)
+- [Youtube](https://www.youtube.com/)
 
 ## 图片类网站
 
@@ -169,17 +141,17 @@
 
 ## 微信类资源
 ### _素材收集_
-- [工业设计范儿](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1%E8%8C%83%E5%84%BF&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=14292&sst0=1534209049853&lkt=4%2C1534209035443%2C1534209049751)
+- [工业设计范儿](http://mp.weixin.qq.com/profile?src=3&timestamp=1558668600&ver=1&signature=FZ*JNU0ra95794e8-YAAtcHlV*8IlbCkU1StqyfHoYEhLqAqAFPXvuORbukKNoJto6VZTsX8fDycLgbzQNV0gw==)
 - [意识夹](http://mp.weixin.qq.com/profile?src=3&timestamp=1558667063&ver=1&signature=41jQl3N9sxVpyuGEfagtDutKjfAtwDoxx1NpDC*ruT0qJ6m*FCFpm7YRpyscH7hfATIYZVSotKyWBeSXGzW2Bg==)
-- [工业设计俱乐部](https://weixin.sogou.com/weixin?type=2&query=%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1%E4%BF%B1%E4%B9%90%E9%83%A8&ie=utf8&s_from=input&_sug_=n&_sug_type_=1&w=01015002&oq=&ri=66&sourceid=sugg&sut=6846&sst0=1534208738388&lkt=0%2C0%2C0&p=40040108)
-- [意翔设计](https://weixin.sogou.com/weixin?type=2&query=%E6%84%8F%E7%BF%94%E8%AE%BE%E8%AE%A1&ie=utf8&s_from=input&_sug_=n&_sug_type_=1&w=01015002&oq=&ri=66&sourceid=sugg&sut=0&sst0=1534208758799&lkt=0%2C0%2C0&p=40040108)
+- [工业设计俱乐部](http://mp.weixin.qq.com/profile?src=3&timestamp=1558668627&ver=1&signature=v7MBD-B-q*WmILQsDBCNlRDZ6wfPa4puqcOfU5uUo-k*QdY6tND-wb*Nauj2K71sVorBXMWIb062wDpjj9yqFA==)
+- [意翔设计](http://mp.weixin.qq.com/profile?src=3&timestamp=1558668663&ver=1&signature=cmn7SRDHZ*yEzQu7mvFhAW0PT60KlehfhF-*RjMLqwOyV4ANVbPjl39i-mQ4K4cX*CsS*0lJ3cdeasahSchRLQ==)
 - [普象工业设计小站](https://weixin.sogou.com/weixin?type=2&query=%E6%99%AE%E8%B1%A1%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1%E5%B0%8F%E7%AB%99&ie=utf8&s_from=input&_sug_=n&_sug_type_=&w=01019900&sut=251&sst0=1534389427988&lkt=1%2C1534389427885%2C1534389427885)
 - [Design360](http://mp.weixin.qq.com/profile?src=3&timestamp=1558667158&ver=1&signature=LpQiNhg*ClDJUOnULUUVMyGQw5fI9iENaHz2TOfopiFvS0Qc0dZ7te81z42k9aMWsORNhTj7f3N49WooJaW0ZQ==)
 - [灵感日报](http://mp.weixin.qq.com/profile?src=3&timestamp=1558667029&ver=1&signature=2rON97KfFAC-dgQVOe-QlDNFFlWVKgUpZZkgYhSLk4OlBJalvJDTIaNFiGhFqUdlKfYdn*So7ZZ4uVeKpU*fvw==)
 - [设计癖](http://mp.weixin.qq.com/profile?src=3&timestamp=1558666758&ver=1&signature=6fcE9z0wpitq3Hekn2fZIU9T756pmCOuDxLZoTXNX7b670Q9jD-uIaHKqqCQXBqE*cRM3ecJMnH6nCYahdwVxw)
 - [CMF设计军团号](http://mp.weixin.qq.com/profile?src=3&timestamp=1558666918&ver=1&signature=6C1o-a-2mH54T-IosrtQn8txGHinbVNh5lrt*iF3QGBRBbuZGOt0pdhl077VGcSR3bEi1ohfb5dM1w9QRqalGQ==)
 - [几何四驱](http://mp.weixin.qq.com/profile?src=3&timestamp=1558667192&ver=1&signature=2Nl4L*64ELZjbCgvedjdmy7IMPCVzLpf6jut8vKQh2vIxhyWi8Ar8Ysxo*ZSY5euTEHpBVibE4OeCS28RDxUWQ==)
-- [黄山手绘工厂](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E9%BB%84%E5%B1%B1%E6%89%8B%E7%BB%98%E5%B7%A5%E5%8E%82&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=14826&sst0=1533548819519&lkt=1%2C1533548819417%2C1533548819417))
+- [黄山手绘工厂](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E9%BB%84%E5%B1%B1%E6%89%8B%E7%BB%98%E5%B7%A5%E5%8E%82&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=14826&sst0=1533548819519&lkt=1%2C1533548819417%2C1533548819417)
 
 ### _数据收集_
 - [三联生活周刊](https://weixin.sogou.com/weixin?type=2&ie=utf8&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A)
@@ -187,12 +159,12 @@
 - [商业周刊中文版](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E5%95%86%E4%B8%9A%E5%91%A8%E5%88%8A%E4%B8%AD%E6%96%87%E7%89%88&ie=utf8&_sug_=y&_sug_type_=1&w=01015002&oq=%E5%95%86%E4%B8%9A&ri=0&sourceid=sugg&stj=0%3B0%3B0%3B0&stj2=0&stj0=0&stj1=0&hp=36&hp1=&sut=26931&sst0=1534210239950&lkt=0%2C0%2C0)
 - [经济学人(https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA&ie=utf8&_sug_=n&_sug_type_=1&w=01015002&oq=&ri=66&sourceid=sugg&sut=0&sst0=1534208930494&lkt=0%2C0%2C0&p=40040108)
 - [第一财经YiMagazine](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8FYiMagazine&ie=utf8&_sug_=n&_sug_type_=)
-- [哈佛商业评论](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E5%93%88%E4%BD%9B%E5%95%86%E4%B8%9A%E8%AF%84%E8%AE%BA&ie=utf8&_sug_=n&_sug_type_=1&w=01015002&oq=&ri=66&sourceid=sugg&sut=0&sst0=1534208987593&lkt=0%2C0%2C0&p=40040108)
-- [环球时报globaltimes](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5globaltimes&ie=utf8&_sug_=n&_sug_type_=)
+- [哈佛商业评论](http://mp.weixin.qq.com/profile?src=3&timestamp=1558668796&ver=1&signature=13j*SoQ783PFkUNsJjf6JoMFqd-5wHInvWyQ0S7YY2yFFCQFQ-VfdHdUG279iCe76Na-s5OhbDvNa9SiwfAs3g==)
+- [环球时报globaltimes](http://mp.weixin.qq.com/profile?src=3&timestamp=1558668761&ver=1&signature=XLh5HAkdkujdXS1ImKhVaZlWWvqsOq11Q7zm84EgAdt815dy88yIZ6GwpWV5tivMPBXBeOb9lIR5d3XIXT69zg==)
 - [快公司FastCompany](http://mp.weixin.qq.com/profile?src=3&timestamp=1558666590&ver=1&signature=dZOHQ-nhBKcaOlMpyU3bnObE70M8dhIeHOb1nq57wXpU-xmzJS*yo0f3f2rZuE53J4vGIJKzmRDIFgujGqh*YA==)
 
 ### _其他_
-- [罗辑思维](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E7%BD%97%E8%BE%91%E6%80%9D%E7%BB%B4&ie=utf8&_sug_=n&_sug_type_=)
+- [罗辑思维](http://mp.weixin.qq.com/profile?src=3&timestamp=1558668716&ver=1&signature=WuQBZj2062fY9CO-nA8EqWxenuWJ9MUgKYKLX7rK9bnX7GvsmCj2BHeM83-OaO*cXGJGAqkBfUc9iZohPVhyuA==)
 - [锐普PPT](http://mp.weixin.qq.com/profile?src=3&timestamp=1558666697&ver=1&signature=DNtlc1UxIUiBqzar50c9VPNPP1ZUGOo5lqOI8FwavjN9iszmxf*30Qxr6cYaZUlaa*HKIvN7Q33DOpr6BjCa6g==)
 - [网易UEDC](http://mp.weixin.qq.com/profile?src=3&timestamp=1558666736&ver=1&signature=hVrOojSwHemseUFod5-4ZJM0Gu2hL2X60Rebr*-*0hT-oS9gcFBhNS12InRRasQ0setzShSB31YGYzCPbMhpDA==)
 - [优秀网页设计](http://mp.weixin.qq.com/profile?src=3&timestamp=1558666805&ver=1&signature=HSBwGk61i-2UJcYWgnE81-shgeEXsI5QUa-oUzdXXBGSc53tt*a0KmUKMOyspb4BCiJyHQ2PxlW7mlqID-pNQw==)
