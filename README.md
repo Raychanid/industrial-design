@@ -119,7 +119,7 @@
 
 ## 微信类资源
 ### _素材收集_
-- [`工业设计范儿`](http://mp.weixin.qq.com/profile?src=3&timestamp=1558668600&ver=1&signature=FZ*JNU0ra95794e8-YAAtcHlV*8IlbCkU1StqyfHoYEhLqAqAFPXvuORbukKNoJto6VZTsX8fDycLgbzQNV0gw==)
+- [`工业设计范儿`](http://mp.weixin.qq.com/profile?src=3&timestamp=1558950949&ver=1&signature=FZ*JNU0ra95794e8-YAAtcHlV*8IlbCkU1StqyfHoYEhLqAqAFPXvuORbukKNoJtsCVRZSBdtB0TYmGn4ZforA==)
 - [`意识夹`](http://mp.weixin.qq.com/profile?src=3&timestamp=1558667063&ver=1&signature=41jQl3N9sxVpyuGEfagtDutKjfAtwDoxx1NpDC*ruT0qJ6m*FCFpm7YRpyscH7hfATIYZVSotKyWBeSXGzW2Bg==)
 - [`工业设计俱乐部`](http://mp.weixin.qq.com/profile?src=3&timestamp=1558668627&ver=1&signature=v7MBD-B-q*WmILQsDBCNlRDZ6wfPa4puqcOfU5uUo-k*QdY6tND-wb*Nauj2K71sVorBXMWIb062wDpjj9yqFA==)
 - [`意翔设计`](http://mp.weixin.qq.com/profile?src=3&timestamp=1558668663&ver=1&signature=cmn7SRDHZ*yEzQu7mvFhAW0PT60KlehfhF-*RjMLqwOyV4ANVbPjl39i-mQ4K4cX*CsS*0lJ3cdeasahSchRLQ==)
