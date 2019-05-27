@@ -313,45 +313,22 @@ _ _ _
     <li>## title 产品开发计划表</li>
 10
     <li>### section 初期阶段 </li>
-11
     <li>#### 明确需求:2017-04-11,10d</li>
-12
     <li>##### section 中期阶段 </li>
-13
     <li>###### 跟进开发:2017-04-22,10d</li>
-14
  <li>###### section 后期阶段  </li>
-15
 <li>###### 走查测试:2017-05-03,20d</li>
-16
 </ul>
-17
 ```
-18
-​
-19
 ```
-20
 ***graph TD***
-21
 A[NO.1]-->B(No.2)
-22
 B --> C{think}
-23
     C -->|是| C1[No.3]
-24
     C -->|否| C2[No.4]
-25
-    C -->|随机|D[No.4]
-26
-    
-27
+   C -->|随机|D[No.4]
 ```
-28
-​
-29
  待解释文字[^1]
-30
 [1]:注释内容
 
 # 神器类网站
@@ -631,9 +608,6 @@ B --> C{think}
 - [Density Bucket](http://density.brdrck.me/) - Density Converter.
 132
 - [iDetailAid](http://labs.rampinteractive.co.uk/android_dp_px_calculator/) - Android DP / PX converter.
-133
-​
-134
 ## Visual
 135
 #### Resources
@@ -909,116 +883,6 @@ _ _ _
 
 :blush:
 
-##  *日韩设计网站*
-
-
-- [ 日本デザインセンター | Nippon Design Center, Inc. ](https://www.ndc.co.jp)
-
-- [奥美](www.ogilvy.co.jp )
-
-- [国际**工业设计**团体协会(ICSID)](www.icsid.org)
-
-- [国际**图形设计**团体协会](www.icograda.org)
-
-- [日本设计组织](www.ndc.ac.jp)
-
-- [デザイン情報サイト[JDN]](https://www.japandesign.ne.jp/)
-
-- [NIPPON COLORS - 日本の伝統色](http://nipponcolors.com)
-
-- [Web Design Clip | Webデザインクリップ](https://www.webdesignclip.com/)
-
-- [WEBデザインリンク集｜Good Design Web | Good Design WEBは秀逸な国内外のWEBサイトを紹介しているショーケースです。](http://gooddesignweb.com/)
-
-- [I/O 3000 | Webデザインギャラリー](https://io3000.com/)
-
-## 竞赛类网站
-
-
-- [ iF WORLD DESIGN GUIDE](https://ifworlddesignguide.com/)
-
-- [The Red Dot Design Award](https://www.red-dot.org/)
-
-- [Good Design Award](http://www.g-mark.org)
-
-- [首页_红星奖官网](http://www.redstaraward.org/index.html)
-
-- [Industrial Designers Society of America - IDSA](http://www.idsa.org/)
-
-- [K-DESIGN AWARD](http://kdesignaward.com/exhibition)
-
-- [视觉me设计社区- 设计师&插画师交流平台！](http://shijue.me/)
-
-## 创意类网站
-
-- [创意设计 创意产品 创意广告 - 玩意儿](http://www.cngadget.cn/)
-- [设计  | 理想生活实验室 - 为更理想的生活](https://www.toodaylab.com/field/302)
-
-- [专利之家-设计发明与创意商机 - 专利之家-设计发明与创意商机](http://www.patent-cn.com/)
-
-- [设计 | TOPYS 全球顶尖创意分享平台 OPEN YOUR MIND](https://www.topys.cn/category/12.html)
-
-- [专利检索及分析](http://www.pss-system.gov.cn/sipopublicsearch/portal/uiIndex.shtml)需注册
-
-
-## 灵感类网站
-
-- [站酷 (ZCOOL) - 设计师互动平台 - 打开站酷，发现更好的设计！](https://www.zcool.com.cn/)
-
-- [设计_好奇心日报](https://www.qdaily.com/categories/17.html)
-
-- [Product Design | Yanko Design](http://www.yankodesign.com/category/productdesign/)
-
-- [Design Milk: Design Blog with Interior Design, Modern Furniture, &amp; Art](https://design-milk.com/)
-
-- [Product Design - Core77](https://www.core77.com/Product-Design/?utm_source=navigation)
-
-- [designboom magazine | your first source for architecture, design &amp; art news](https://www.designboom.com//)
-
-- [Coroflot — Design Jobs &amp; Portfolios](https://www.coroflot.com/)
-
-- [Products Archives - The Cool Hunter -The Cool Hunter](http://thecoolhunter.net/category/design/products/)
-
-- [普象网_普象工业设计小站_工业产品创意设计_原创分享交流](https://www.pushthink.com/)
-
-- [第二自然](http://www.d2ziran.com/default/article.htm)
-
-## 翻墙类网站
-
-
-[pinterest](https://www.pinterest.com/)
-
-[Behance :: 策展库](https://www.behance.net/galleries/6/%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1?content=projects&queues=5)
-
-[Tumblr](https://www.tumblr.com/dashboard#)
-
-[Things Organized Neatly ](http://thingsorganizedneatly.tumblr.com/post/181572383665/happy-new-year-alex-gee-pouring-more-than-700) -  Happy New Year! Alex Gee, pouring more than 700...
-
-[發掘 | Flickr](https://www.flickr.com/explore)
-
-[Instagram](https://www.instagram.com/terms/unblock/?next=/)
-
-[twitter](https://twitter.com/)
-
-[Youtube](https://www.youtube.com/)
-
-## 图片类网站
-
-[Adobe Create Magazine](https://create.adobe.com/)
-
-## 微信类资源
-### _素材收集_
-- [工业设计范儿`的相关微信公众号文章 – 搜狗微信搜索`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1%E8%8C%83%E5%84%BF&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=14292&sst0=1534209049853&lkt=4%2C1534209035443%2C1534209049751)
-- [工业设计俱乐部`的相关微信公众号文章 – 搜狗微信搜索`](https://weixin.sogou.com/weixin?type=2&query=%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1%E4%BF%B1%E4%B9%90%E9%83%A8&ie=utf8&s_from=input&_sug_=n&_sug_type_=1&w=01015002&oq=&ri=66&sourceid=sugg&sut=6846&sst0=1534208738388&lkt=0%2C0%2C0&p=40040108)
-- [意翔设计`的相关微信公众号文章 – 搜狗微信搜索`](https://weixin.sogou.com/weixin?type=2&query=%E6%84%8F%E7%BF%94%E8%AE%BE%E8%AE%A1&ie=utf8&s_from=input&_sug_=n&_sug_type_=1&w=01015002&oq=&ri=66&sourceid=sugg&sut=0&sst0=1534208758799&lkt=0%2C0%2C0&p=40040108)
-- [普象工业设计小站`的相关微信公众号文章 – 搜狗微信搜索`](https://weixin.sogou.com/weixin?type=2&query=%E6%99%AE%E8%B1%A1%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1%E5%B0%8F%E7%AB%99&ie=utf8&s_from=input&_sug_=n&_sug_type_=&w=01019900&sut=251&sst0=1534389427988&lkt=1%2C1534389427885%2C1534389427885)
-- [黄山手绘工厂`的相关微信公众号文章 – 搜狗微信搜索`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E9%BB%84%E5%B1%B1%E6%89%8B%E7%BB%98%E5%B7%A5%E5%8E%82&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=14826&sst0=1533548819519&lkt=1%2C1533548819417%2C1533548819417))
-### _数据收集_
-- [三联生活周刊](https://weixin.sogou.com/weixin?type=2&ie=utf8&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A)
-- [好奇心日报](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E5%A5%BD%E5%A5%87%E5%BF%83%E6%97%A5%E6%8A%A5&ie=utf8&_sug_=n&_sug_type_=1&w=01015002&oq=&ri=66&sourceid=sugg&sut=0&sst0=1534209015051&lkt=0%2C0%2C0&p=40040108)
-- [商业周刊中文版](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E5%95%86%E4%B8%9A%E5%91%A8%E5%88%8A%E4%B8%AD%E6%96%87%E7%89%88&ie=utf8&_sug_=y&_sug_type_=1&w=01015002&oq=%E5%95%86%E4%B8%9A&ri=0&sourceid=sugg&stj=0%3B0%3B0%3B0&stj2=0&stj0=0&stj1=0&hp=36&hp1=&sut=26931&sst0=1534210239950&lkt=0%2C0%2C0)
-
-![id](https://)
 
 # 神器类网站
 
