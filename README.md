@@ -38,7 +38,7 @@
  厨房 
 ---
 
-- [Umbra](https://www.umbra.com/) - Shop Modern Home Décor  
+- [`Umbra`](https://www.umbra.com/) - Shop Modern Home Décor  
 - [Guzzini](http://www.guzzini.com)  - Kitchens Gadgets &amp; Kitchen Utensils | Official eshop Guzzini  
 - [simplehuman ](https://www.simplehuman.com/)  - tools for efficient living
 - [ASVEL](http://www.asvel.co.jp/product/index.html)  - 製品紹介 | ASVEL-アスベル
@@ -302,24 +302,6 @@ _ _ _
 :blush:
 ![id](https://)
 
- ```html
-6
-<ul>
-7
-    <li>**gantt**</li>
-8
-    <li># dateFormat YYYY-MM-DD</li>
-9
-    <li>## title 产品开发计划表</li>
-10
-    <li>### section 初期阶段 </li>
-    <li>#### 明确需求:2017-04-11,10d</li>
-    <li>##### section 中期阶段 </li>
-    <li>###### 跟进开发:2017-04-22,10d</li>
- <li>###### section 后期阶段  </li>
-<li>###### 走查测试:2017-05-03,20d</li>
-</ul>
-```
 ```
 ***graph TD***
 A[NO.1]-->B(No.2)
