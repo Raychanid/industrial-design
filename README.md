@@ -26,7 +26,7 @@
 - [`inomata-k`](http://www.inomata-k.co.jp/)  - イノマタ化学｜ホームページ
 - [`koziol`](http://www.koziol-shop.de/) - koziol Online Shop | Willkommen
 - [`창신몰`](http://www.changsinmall.com/) -생활수납용품 전문 제조회사
-- [`ＳＰソース`](https://www.sp-sauce.com/)  - ノベルティグッズの「ＳＰソース」通販ホームページ `日本淘宝`   
+- [`ＳＰソース`](https://www.sp-sauce.com/)  - ノベルティグッズの「ＳＰソース」通販ホームページ    
 - [ `Joseph Joseph`](https://www.josephjoseph.com/en-us/) - Smart Kitchenware &amp; Baking Tools
 - [ `IKEA` ](https://www.ikea.com/)  – International homepage 
 
@@ -47,29 +47,18 @@
 
 ##  *日韩设计网站*
 
-
-[`日本デザインセンター | Nippon Design Center, Inc.`](https://www.ndc.co.jp)
-
-[`奥美`](www.ogilvy.co.jp )
-
-[` 国际**工业设计**团体协会(ICSID)`](www.icsid.org)
-
-[`国际**图形设计**团体协会`](www.icograda.org)
-
-[`日本设计组织`](www.ndc.ac.jp)
-
-[`デザイン情報サイト[JDN]`](https://www.japandesign.ne.jp/)
-
-[`NIPPON COLORS - 日本の伝統色`](http://nipponcolors.com)
-
-[`Web Design Clip | Webデザインクリップ`](https://www.webdesignclip.com/)
-
-[`WEBデザインリンク集｜Good Design Web | Good Design WEBは秀逸な国内外のWEBサイトを紹介しているショーケースです。`](http://gooddesignweb.com/)
-
-[`I/O 3000 | Webデザインギャラリー`](https://io3000.com/)
+- [ 日本デザインセンター | `Nippon Design Center, Inc.`](https://www.ndc.co.jp)
+- [`奥美`](www.ogilvy.co.jp )
+- [` 国际**工业设计**团体协会(ICSID)`](www.icsid.org)
+- [`国际**图形设计**团体协会`](www.icograda.org)
+- [`日本设计组织`](www.ndc.ac.jp)
+- [`デザイン情報サイト[JDN]`](https://www.japandesign.ne.jp/)
+- [ NIPPON COLORS - `日本の伝統色`](http://nipponcolors.com)
+- [`Web Design Clip` | Webデザインクリップ ](https://www.webdesignclip.com/)
+- [ WEBデザインリンク集｜`Good Design Web `| Good Design WEBは秀逸な国内外のWEBサイトを紹介しているショーケースです。 ](http://gooddesignweb.com/)
+- [`I/O 3000 `| Webデザインギャラリー ](https://io3000.com/)
 
 ## 竞赛类网站
-
 
 - [`iF WORLD DESIGN GUIDE`](https://ifworlddesignguide.com/)
 - [`The Red Dot Design Award`](https://www.red-dot.org/)
@@ -81,24 +70,24 @@
 
 ## 创意类网站
 
-- [`创意设计 创意产品 创意广告 - 玩意儿`](http://www.cngadget.cn/)
-- [`设计  | 理想生活实验室 - 为更理想的生活`](https://www.toodaylab.com/field/302)
-- [`专利之家-设计发明与创意商机 - 专利之家-设计发明与创意商机`](http://www.patent-cn.com/)
-- [`设计 | TOPYS 全球顶尖创意分享平台 OPEN YOUR MIND`](https://www.topys.cn/category/12.html)
-- [`专利检索及分析`](http://www.pss-system.gov.cn/sipopublicsearch/portal/uiIndex.shtml)需注册
+- [ 创意设计 创意产品 创意广告 - `玩意儿`](http://www.cngadget.cn/)
+- [ 设计  | `理想生活实验室`  ](https://www.toodaylab.com/field/302) - 为更理想的生活
+- [`专利之家`](http://www.patent-cn.com/) -设计发明与创意商机 - 专利之家-设计发明与创意商机 
+- [ 设计 | `TOPYS 全球顶尖创意分享平台 OPEN YOUR MIND`](https://www.topys.cn/category/12.html)
+- [`专利检索及分析`](http://www.pss-system.gov.cn/sipopublicsearch/portal/uiIndex.shtml) - 需注册
 
 
 ## 灵感类网站
 
-- [`站酷 (ZCOOL) `- 设计师互动平台 - 打开站酷，发现更好的设计！](https://www.zcool.com.cn/)
+- [`站酷 (ZCOOL) `](https://www.zcool.com.cn/)- 设计师互动平台 - 打开站酷，发现更好的设计！
 - [ 设计_`好奇心日报`](https://www.qdaily.com/categories/17.html)
 - [Product Design |` Yanko Design`](http://www.yankodesign.com/category/productdesign/)
-- [`Design Milk`: Design Blog with Interior Design, Modern Furniture, &amp; Art](https://design-milk.com/)
+- [`Design Milk`  ](https://design-milk.com/)- Design Blog with Interior Design, Modern Furniture, and Art
 - [Product Design - `Core77`](https://www.core77.com/Product-Design/?utm_source=navigation)
-- [`designboom magazine` | your first source for architecture, design &amp; art news](https://www.designboom.com//)
-- [`Coroflot `— Design Jobs &amp; Portfolios](https://www.coroflot.com/)
+- [`designboom magazine` ](https://www.designboom.com//)- your first source for architecture, design and art news
+- [`Coroflot `](https://www.coroflot.com/) -  Design Jobs and Portfolios
 - [Products Archives - `The Cool Hunter` -The Cool Hunter](http://thecoolhunter.net/category/design/products/)
-- [`普象网`_普象工业设计小站_工业产品创意设计_原创分享交流](https://www.pushthink.com/)
+- [`普象网`]_ (https://www.pushthink.com/)-普象工业设计小站_工业产品创意设计_原创分享交流
 - [`第二自然`](http://www.d2ziran.com/default/article.htm)
 
 ## 翻墙类网站
