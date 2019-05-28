@@ -61,7 +61,7 @@
 ## 竞赛类网站
 
 - [`iF WORLD DESIGN GUIDE`](https://ifworlddesignguide.com/)
-- [`The Red Dot Design Award`](https://www.red-dot.org/)
+- [`The Red Dot Design Award`](https://www.red-dot.org/en)
 - [`Good Design Award`](http://www.g-mark.org)
 - [`首页_红星奖官网`](http://www.redstaraward.org/index.html)
 - [`Industrial Designers Society of America - IDSA`](http://www.idsa.org/)
