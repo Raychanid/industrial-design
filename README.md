@@ -285,65 +285,69 @@ B --> C{think}
 
 ## COLOR
 
-- [Find a Pantone Color | Quick Online Color Tool](https://www.pantone.com/color-finder#/pick?pantoneBook=pantoneSolidCoatedV3M2)
-- [Color collection - Material Design](https://material.io/collections/color/#!/?view.left=0&view.right=0)
-- [Colors - House of van Schneider](http://www.vanschneider.com/colors)
-- [Palettable](https://www.palettable.io/161026)
-- [Picular](https://picular.co/)
-- [Coolors](https://coolors.co/) - The super fast color schemes generator!.
-- [Colour Lovers](http://www.colourlovers.com/) - A creative community.
-- [Color Hunt](http://colorhunt.co/) - Color Hunt is a social platform for everyone who love colors.
-- [Brand Colors](http://brand-colors.com/) - A 1100+ color collection available in sass, less, stylus and css.
-- [Pigment by ShapeFactory | Simple Color Palette Generator](https://pigment.shapefactory.co/)
+- [`Find a Pantone Color `| Quick Online Color Tool](https://www.pantone.com/color-finder#/pick?pantoneBook=pantoneSolidCoatedV3M2)
+- [`Color collection `- Material Design](https://material.io/collections/color/#!/?view.left=0&view.right=0)
+- [Colors - `House of van Schneider`](http://www.vanschneider.com/colors)
+- [`Palettable`](https://www.palettable.io/161026)
+- [`Picular`](https://picular.co/)
+- [`Coolors`](https://coolors.co/) - The super fast color schemes generator!.
+- [`Colour Lovers`](http://www.colourlovers.com/) - A creative community.
+- [`Color Hunt`](http://colorhunt.co/) - Color Hunt is a social platform for everyone who love colors.
+- [`Brand Colors`](http://brand-colors.com/) - A 1100+ color collection available in sass, less, stylus and css.
+- [`Pigment by ShapeFactory`](https://pigment.shapefactory.co/) - Simple Color Palette Generator
 
 ## COLORS
 
-
-- [Khroma - The AI color tool for designers](http://khroma.co/train/)
-- [Color Supply - A Hex Color Palette Generator](https://colorsupplyyy.com/app/)
-- [Duotone by ShapeFactory | Create Beautiful Free Duotones](https://duotone.shapefactory.co/?f=10c5f8&t=6736dd)
+- [`Khroma`](http://khroma.co/train/) - The AI color tool for designers
+- [`Color Supply `](https://colorsupplyyy.com/app/)- A Hex Color Palette Generator
+- [`Duotone by ShapeFactory`  ](https://duotone.shapefactory.co/?f=10c5f8&t=6736dd) - Create Beautiful Free Duotones
 
 ## UI
 
-
-- [Sketch2Code - Transform sketches into HTML using AI](https://sketch2code.azurewebsites.net/)
+- [`Sketch2Code` ](https://sketch2code.azurewebsites.net/) - Transform sketches into HTML using AI
 
 ## ICONS
 
-- [Streamline 3.0 – The World's Largest Icon Library](https://streamlineicons.com)
-- [Free Logo Creator &amp; Logo Generator - Make a Logo In Seconds](https://logojoy.com/)
- - [Use Iconic](https://useiconic.com/) - Meet Iconic. The definitive icon set designed for the modern web.
-- [Icon Finder](https://www.iconfinder.com/) - Search through 1,739,045 icons or browse 42,226 icon sets.
-- [We Love Icon Font](http://weloveiconfonts.com/) - This is a free & open source icon fonts hosting service.
-- [The Noun Project](https://thenounproject.com/) - Icons for everything.
-- [Iconmonstr](https://iconmonstr.com/) - Discover 3847+ free simple icons in 263 collections.
+- [`Streamline 3.0` ](https://streamlineicons.com)– The World's Largest Icon Library
+- [`Free Logo Creator and Logo Generator` ](https://logojoy.com/)- Make a Logo In Seconds
+ - [`Use Iconic`](https://useiconic.com/) - Meet Iconic. The definitive icon set designed for the modern web.
+- [`Icon Finder`](https://www.iconfinder.com/) - Search through 1,739,045 icons or browse 42,226 icon sets.
+- [`We Love Icon Font`](http://weloveiconfonts.com/) - This is a free & open source icon fonts hosting service.
+- [`The Noun Project`](https://thenounproject.com/) - Icons for everything.
+- [`Iconmonstr`](https://iconmonstr.com/) - Discover 3847+ free simple icons in 263 collections.
 
 ## FONTS
 
-- [FontPair - Helps you pair Google Fonts together](https://fontpair.co/)
-- [Open Foundry](http://open-foundry.com/) - A new platform for open-source fonts in a noise-free environment.
-- [Use & Modify](http://usemodify.com/) - Provide a contemporary set of fonts distributed under libre or open source licences, hand picked by a typography and free culture lover.
-- [Font Fabric](http://www.fontfabric.com/) - Fontfabric is an independent type foundry.
-- [Font Squirrel](https://www.fontsquirrel.com/) - Free Font Utopia.
-- [Play Type](https://playtype.com/) - Browse through our selection of more than a hundred fonts and nearly 500 different font weights.
-- [Identyfont](http://www.identifont.com/index.html) - Identify a font by answering questions about key features.
-- [Fonts.lol - A Color Font Type Foundry](http://www.fonts.lol/)
-- [Font Picker](http://www.fontpicker.io/) - A webfont library for your browser.
-- [Font Reach](http://www.fontreach.com/) - FontReach scans the top million sites to show font usage across the web.
+- [`FontPair` ](https://fontpair.co/)- Helps you pair Google Fonts together
+- [`Open Foundry`](http://open-foundry.com/) - A new platform for open-source fonts in a noise-free environment.
+- [`Use & Modify`](http://usemodify.com/) - Provide a contemporary set of fonts distributed under libre or open source licences, hand picked by a typography and free culture lover.
+- [`Font Fabric`](http://www.fontfabric.com/) - Fontfabric is an independent type foundry.
+- [`Font Squirrel`](https://www.fontsquirrel.com/) - Free Font Utopia.
+- [`Play Type`](https://playtype.com/) - Browse through our selection of more than a hundred fonts and nearly 500 different font weights.
+- [`Identyfont`](http://www.identifont.com/index.html) - Identify a font by answering questions about key features.
+- [`Fonts.lol` ](http://www.fonts.lol/)- A Color Font Type Foundry
+- [`Font Picker`](http://www.fontpicker.io/) - A webfont library for your browser.
+- [`Font Reach`](http://www.fontreach.com/) - FontReach scans the top million sites to show font usage across the web.
+
+
 ## PAINT
-- [PaintsChainer -线稿自动上色服务-](https://paintschainer.preferred.tech/index_zh.html)
+
+- [`PaintsChainer` ](https://paintschainer.preferred.tech/index_zh.html)-线稿自动上色服务
 
 ## PICTURE
 
-- [Bigjpg](http://bigjpg.com/)- AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片
-- [Unsplash](https://unsplash.com/) - Free (do whatever you want) - high-resolution photos.
-- [StockSnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly.
-- [Pixbay](https://pixabay.com/) - Free images and videos you can use anywhere.
-- [Jay Mantry](http://jaymantri.com/) - free pics. do anything (CC0) -. make magic.
-- [The Stock](http://thestocks.im/) - The best royalty free stock photos are delivered now along with videos, audios, icons, fonts and colors.
-- [Get Refe](http://getrefe.tumblr.com/) - Royalty-free, high-quality, Real Life photos.
-- [ISO Republic](http://isorepublic.com/) - ISO Republic provides free stock photos for creative professionals.
-- [All The Free Stock](http://allthefreestock.com/) - Get all the Free Stock Images, Videos, Music and Icons in one location.
-- [Pexels](https://www.pexels.com) - Free stock images in a range of styles including filtered, natural, and commercial.
+- [`Bigjpg`](http://bigjpg.com/)- AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片
+- [`Unsplash`](https://unsplash.com/) - Free (do whatever you want) - high-resolution photos.
+- [`StockSnap`](https://stocksnap.io/) - Hundreds of high resolution images added weekly.
+- [`Pixbay`](https://pixabay.com/) - Free images and videos you can use anywhere.
+- [`Jay Mantry`](http://jaymantri.com/) - free pics. do anything (CC0) -. make magic.
+- [`The Stock`](http://thestocks.im/) - The best royalty free stock photos are delivered now along with videos, audios, icons, fonts and colors.
+- [`Get Refe`](http://getrefe.tumblr.com/) - Royalty-free, high-quality, Real Life photos.
+- [`ISO Republic`](http://isorepublic.com/) - ISO Republic provides free stock photos for creative professionals.
+- [`All The Free Stock`](http://allthefreestock.com/) - Get all the Free Stock Images, Videos, Music and Icons in one location.
+- [`Pexels`](https://www.pexels.com) - Free stock images in a range of styles including filtered, natural, and commercial.
+
+
 ## Videos
-- [Vimeo](https://vimeo.com/channels/freestockfootage/) - Royalty Free Stock Video for Free Personal, Corporate or Commercial Use.
+
+- [`Vimeo`](https://vimeo.com/channels/freestockfootage/) - Royalty Free Stock Video for Free Personal, Corporate or Commercial Use.
