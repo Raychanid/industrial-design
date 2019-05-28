@@ -87,7 +87,7 @@
 - [`designboom magazine` ](https://www.designboom.com//)- your first source for architecture, design and art news
 - [`Coroflot `](https://www.coroflot.com/) -  Design Jobs and Portfolios
 - [Products Archives - `The Cool Hunter` -The Cool Hunter](http://thecoolhunter.net/category/design/products/)
-- [`普象网`]_ (https://www.pushthink.com/)-普象工业设计小站_工业产品创意设计_原创分享交流
+- [`普象网`](https://www.pushthink.com/)-普象工业设计小站_工业产品创意设计_原创分享交流 
 - [`第二自然`](http://www.d2ziran.com/default/article.htm)
 
 ## 翻墙类网站
