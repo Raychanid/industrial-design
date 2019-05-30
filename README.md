@@ -1,6 +1,9 @@
 ![](https://img.shields.io/badge/Raychanid-ID-blue.svg)
 <div align=center><img src="https://img.shields.io/badge/Raychanid-ID-blue.svg" width="150" height="30"  alt="ID"/></div>
 
+![](https://huaban.com/pins/2477957522/)
+![](https://huaban.com/pins/2477958518/)
+
 # 编程
 ## 在线编辑器
 - [`colab`](https://colab.research.google.com/drive/1vo-_GxKbOFpos4qPXRe6uKmsro5zRaMB)
