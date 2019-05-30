@@ -2,9 +2,9 @@
 <div align=center><img src="https://img.shields.io/badge/Raychanid-ID-blue.svg" width="150" height="30"  alt="ID"/></div>
 
 
-![品牌特征](http://github.com/raychanid/industrial-design/images/1d46181d756e38b3c23e7cbe9da3d40fecea11532c49d0-qLxwVA_fw658.png)
+![品牌特征](http://github.com/raychanid/industrial-design/tree/images/images/1d46181d756e38b3c23e7cbe9da3d40fecea11532c49d0-qLxwVA_fw658.png)
  
-![设计语言](http://github.com/raychanid/industrial-design/images/7e311d3cdb676542c56f411fc7c2c0577b24223e4f0e5-w1oRO5_fw658.jpg)
+![设计语言](http://github.com/raychanid/industrial-design/tree/images/images/7e311d3cdb676542c56f411fc7c2c0577b24223e4f0e5-w1oRO5_fw658.jpg)
 
 # 编程
 ## 在线编辑器
