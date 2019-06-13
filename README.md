@@ -121,60 +121,36 @@
 
 ## 微信类资源
 ### _素材收集_
-- [`工业设计范儿`](http://mp.weixin.qq.com/profile?src=3&timestamp=1558950949&ver=1&signature=FZ*JNU0ra95794e8-YAAtcHlV*8IlbCkU1StqyfHoYEhLqAqAFPXvuORbukKNoJtsCVRZSBdtB0TYmGn4ZforA==)
-- [`意识夹`](http://mp.weixin.qq.com/profile?src=3&timestamp=1558667063&ver=1&signature=41jQl3N9sxVpyuGEfagtDutKjfAtwDoxx1NpDC*ruT0qJ6m*FCFpm7YRpyscH7hfATIYZVSotKyWBeSXGzW2Bg==)
-- [`工业设计俱乐部`](http://mp.weixin.qq.com/profile?src=3&timestamp=1558668627&ver=1&signature=v7MBD-B-q*WmILQsDBCNlRDZ6wfPa4puqcOfU5uUo-k*QdY6tND-wb*Nauj2K71sVorBXMWIb062wDpjj9yqFA==)
-- [`意翔设计`](http://mp.weixin.qq.com/profile?src=3&timestamp=1558668663&ver=1&signature=cmn7SRDHZ*yEzQu7mvFhAW0PT60KlehfhF-*RjMLqwOyV4ANVbPjl39i-mQ4K4cX*CsS*0lJ3cdeasahSchRLQ==)
-- [`普象工业设计小站`](http://mp.weixin.qq.com/profile?src=3&timestamp=1558669009&ver=1&signature=N1OlfbWJ95i0uZpsAQAhQdX2wDDHe4BFoyDw5FJWaEmNmPUOivf8af7M7PsDQcchpiXf0t2HSPgsQToo5aN13w==)
-- [`Design360`](http://mp.weixin.qq.com/profile?src=3&timestamp=1558667158&ver=1&signature=LpQiNhg*ClDJUOnULUUVMyGQw5fI9iENaHz2TOfopiFvS0Qc0dZ7te81z42k9aMWsORNhTj7f3N49WooJaW0ZQ==)
-- [`灵感日报`](http://mp.weixin.qq.com/profile?src=3&timestamp=1558667029&ver=1&signature=2rON97KfFAC-dgQVOe-QlDNFFlWVKgUpZZkgYhSLk4OlBJalvJDTIaNFiGhFqUdlKfYdn*So7ZZ4uVeKpU*fvw==)
-- [`设计癖`](http://mp.weixin.qq.com/profile?src=3&timestamp=1558666758&ver=1&signature=6fcE9z0wpitq3Hekn2fZIU9T756pmCOuDxLZoTXNX7b670Q9jD-uIaHKqqCQXBqE*cRM3ecJMnH6nCYahdwVxw)
-- [`CMF设计军团号`](http://mp.weixin.qq.com/profile?src=3&timestamp=1558666918&ver=1&signature=6C1o-a-2mH54T-IosrtQn8txGHinbVNh5lrt*iF3QGBRBbuZGOt0pdhl077VGcSR3bEi1ohfb5dM1w9QRqalGQ==)
-- [`几何四驱`](http://mp.weixin.qq.com/profile?src=3&timestamp=1558667192&ver=1&signature=2Nl4L*64ELZjbCgvedjdmy7IMPCVzLpf6jut8vKQh2vIxhyWi8Ar8Ysxo*ZSY5euTEHpBVibE4OeCS28RDxUWQ==)
+
+- [`意识夹`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E6%84%8F%E8%AF%86%E5%A4%B9&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=9021&sst0=1560393510677&lkt=1%2C1560393510574%2C1560393510574)
+- [`工业设计俱乐部`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1%E4%BF%B1%E4%B9%90%E9%83%A8&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=1093&sst0=1560393529236&lkt=1%2C1560393529133%2C1560393529133)
+- [`意翔设计`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E6%84%8F%E7%BF%94%E8%AE%BE%E8%AE%A1&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=943&sst0=1560393546460&lkt=1%2C1560393546358%2C1560393546358)
+- [`普象工业设计小站`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E6%99%AE%E8%B1%A1%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1%E5%B0%8F%E7%AB%99&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=1052&sst0=1560393562331&lkt=1%2C1560393562229%2C1560393562229)
+- [`Design360`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=Design360&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=1302&sst0=1560393578924&lkt=1%2C1560393578821%2C1560393578821)
+- [`灵感日报`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E7%81%B5%E6%84%9F%E6%97%A5%E6%8A%A5&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=1542&sst0=1560393650501&lkt=1%2C1560393650398%2C1560393650398)
+- [`设计癖`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E8%AE%BE%E8%AE%A1%E7%99%96&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=1028&sst0=1560393701611&lkt=1%2C1560393701508%2C1560393701508)
+- [`CMF设计军团号`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=CMF%E8%AE%BE%E8%AE%A1%E5%86%9B%E5%9B%A2%E5%8F%B7&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=1068&sst0=1560393717091&lkt=1%2C1560393716989%2C1560393716989)
+- [`几何四驱`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E5%87%A0%E4%BD%95%E5%9B%9B%E9%A9%B1&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=1485&sst0=1560393736692&lkt=1%2C1560393736589%2C1560393736589)
 
 ### _数据收集_
-- [`三联生活周刊`](http://mp.weixin.qq.com/profile?src=3&timestamp=1558668978&ver=1&signature=7qoL4C1F0YU6ocTXz3cNJLv7m9H0H0RdU4WLr4TCxXsz5BPnJkI2NRDh5iCtreYWla7E4TjIyQw7VFRfiparfg==)
-- [`好奇心日报`](http://mp.weixin.qq.com/profile?src=3&timestamp=1558668961&ver=1&signature=6fkur2jRLQ8l1g5xvNAoETyX9aKIvTE3RI3Z2JSLf-c71wUe3TLlIixFItKXyNaqpfFDj09OxeVMTOQ9NembbA==)
-- [`商业周刊中文版`](http://mp.weixin.qq.com/profile?src=3&timestamp=1558668934&ver=1&signature=3tjL4Y*Tm40zrRA26fLfTXPPnKPOy2ZMz8DB9Hjqy2K7PxtjS5O6Ht9pna4CxnlbjIZ*39p3mEehBTDtlJVnJg==)
-- [`经济学人`](http://mp.weixin.qq.com/profile?src=3&timestamp=1558668894&ver=1&signature=umqkJ-NyNrrvBXOtXwXYFXUbqoIEG8BypKvN-P1X2ozLcwKDBogCwsPzQ8JMIj2CGdD3a-5HVpbBGH53p1pkUg==)
-- [`第一财经YiMagazine`](http://mp.weixin.qq.com/profile?src=3&timestamp=1558668917&ver=1&signature=rUBgDA8alITCh-zg7pWxhfS-CUrsQmklN1yJ6BJWTNLocRH9xG6lOTC*FWwIqG93Lmmi7b8TLfB9OjvUr9twcg==)
-- [`哈佛商业评论`](http://mp.weixin.qq.com/profile?src=3&timestamp=1558668796&ver=1&signature=13j*SoQ783PFkUNsJjf6JoMFqd-5wHInvWyQ0S7YY2yFFCQFQ-VfdHdUG279iCe76Na-s5OhbDvNa9SiwfAs3g==)
-- [`环球时报globaltimes`](http://mp.weixin.qq.com/profile?src=3&timestamp=1558668761&ver=1&signature=XLh5HAkdkujdXS1ImKhVaZlWWvqsOq11Q7zm84EgAdt815dy88yIZ6GwpWV5tivMPBXBeOb9lIR5d3XIXT69zg==)
-- [`快公司FastCompany`](http://mp.weixin.qq.com/profile?src=3&timestamp=1558666590&ver=1&signature=dZOHQ-nhBKcaOlMpyU3bnObE70M8dhIeHOb1nq57wXpU-xmzJS*yo0f3f2rZuE53J4vGIJKzmRDIFgujGqh*YA==)
+- [`三联生活周刊`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=1134&sst0=1560393765387&lkt=1%2C1560393765284%2C1560393765284)
+- [`好奇心日报`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E5%A5%BD%E5%A5%87%E5%BF%83%E6%97%A5%E6%8A%A5&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=1685&sst0=1560393782091&lkt=1%2C1560393781989%2C1560393781989)
+- [`商业周刊中文版`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E5%95%86%E4%B8%9A%E5%91%A8%E5%88%8A%E4%B8%AD%E6%96%87%E7%89%88&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=1381&sst0=1560393807003&lkt=1%2C1560393806900%2C1560393806900)
+- [`经济学人`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=895&sst0=1560393824371&lkt=0%2C0%2C0)
+- [`第一财经YiMagazine`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8FYiMagazine&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=495&sst0=1560393842634&lkt=1%2C1560393842532%2C1560393842532)
+- [`哈佛商业评论`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E5%93%88%E4%BD%9B%E5%95%86%E4%B8%9A%E8%AF%84%E8%AE%BA&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=854&sst0=1560393858850&lkt=1%2C1560393858747%2C1560393858747)
+- [`环球时报globaltimes`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5globaltimes&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=815&sst0=1560393877827&lkt=0%2C0%2C0)
+- [`快公司FastCompany`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E5%BF%AB%E5%85%AC%E5%8F%B8FastCompany&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=744&sst0=1560393894436&lkt=0%2C0%2C0)
 
 ### _其他_
-- [`罗辑思维`](http://mp.weixin.qq.com/profile?src=3&timestamp=1558668716&ver=1&signature=WuQBZj2062fY9CO-nA8EqWxenuWJ9MUgKYKLX7rK9bnX7GvsmCj2BHeM83-OaO*cXGJGAqkBfUc9iZohPVhyuA==)
-- [`锐普PPT`](http://mp.weixin.qq.com/profile?src=3&timestamp=1558666697&ver=1&signature=DNtlc1UxIUiBqzar50c9VPNPP1ZUGOo5lqOI8FwavjN9iszmxf*30Qxr6cYaZUlaa*HKIvN7Q33DOpr6BjCa6g==)
-- [`网易UEDC`](http://mp.weixin.qq.com/profile?src=3&timestamp=1558666736&ver=1&signature=hVrOojSwHemseUFod5-4ZJM0Gu2hL2X60Rebr*-*0hT-oS9gcFBhNS12InRRasQ0setzShSB31YGYzCPbMhpDA==)
-- [`优秀网页设计`](http://mp.weixin.qq.com/profile?src=3&timestamp=1558666805&ver=1&signature=HSBwGk61i-2UJcYWgnE81-shgeEXsI5QUa-oUzdXXBGSc53tt*a0KmUKMOyspb4BCiJyHQ2PxlW7mlqID-pNQw==)
-- [`装饰杂志`](http://mp.weixin.qq.com/profile?src=3&timestamp=1558666832&ver=1&signature=eo098CGl0aeMyIc0q8xMwLwmTLuCY34SFgYwyvm0p00tr1RIjw*FcKlmoluakYHHV12GFOGotCn*V*4VkkuSvg==)
+- [`罗辑思维`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E7%BD%97%E8%BE%91%E6%80%9D%E7%BB%B4&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=985&sst0=1560393913884&lkt=0%2C0%2C0)
+- [`锐普PPT`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E9%94%90%E6%99%AEPPT&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=504&sst0=1560393927779&lkt=0%2C0%2C0)
+- [`网易UEDC`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E7%BD%91%E6%98%93UEDC&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=368&sst0=1560393942538&lkt=1%2C1560393942435%2C1560393942435)
+- [`优秀网页设计`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E4%BC%98%E7%A7%80%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=136&sst0=1560393959386&lkt=1%2C1560393959283%2C1560393959283)
+- [`装饰杂志`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E8%A3%85%E9%A5%B0%E6%9D%82%E5%BF%97&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=1192&sst0=1560393975194&lkt=0%2C0%2C0)
 
-```html
-<ul>
-    <li>**gantt**</li>
-    <li># dateFormat YYYY-MM-DD</li>
-    <li>## title 产品开发计划表</li>
-    <li>### section 初期阶段 </li>
-    <li>#### 明确需求:2017-04-11,10d</li>
-    <li>##### section 中期阶段 </li>
-    <li>###### 跟进开发:2017-04-22,10d</li>
- <li>###### section 后期阶段  </li>
-<li>###### 走查测试:2017-05-03,20d</li>
-</ul>
-```
-
-```
-***graph TD***
-A[NO.1]-->B(No.2)
-B --> C{think}
-    C -->|是| C1[No.3]
-    C -->|否| C2[No.4]
-    C -->|随机|D[No.4]
-    
-```
-
- 待解释文字[^1]
-[1]:注释内容
+ `装饰杂志`[^1]
+[1]:from 清华
    
 4
 >5
@@ -189,7 +165,7 @@ ___
 _ _ _
 
 
-类 Setext  (只有2级)
+类 Setext  (只有两级)
 =====
 类 Setext
 -----
@@ -197,8 +173,6 @@ _ _ _
 # 类 Atx  (只有6级)
 ### 类 Atx 
 ###### 类 Atx 
-
-`高亮效果`
 
 |  键盘空格   |  半角空格  |  全角空格 |
 |  -:  | :-: |  :- |
