@@ -7,21 +7,9 @@
 ![设计语言](http://github.com/raychanid/industrial-design/tree/images/images/7e311d3cdb676542c56f411fc7c2c0577b24223e4f0e5-w1oRO5_fw658.jpg)
 
 # 工具网站
-- [`OCRMaker`](http://ocrmaker.com/)-免费在线文字识别，文字提取，OCR服务 
-- [`在线拼图,图片拼接`](https://www.toolnb.com/tools/tppj.html) - 爱资料工具
-- [`Google 图片`](https://www.google.com/imghp?sbi=1)
-- [`Rhino3D(犀牛)中文网`](http://www.rhino3d.asia/portal.php)-  Powered by Discuz!
-- [`remove.bg`](https://www.remove.bg/)-Remove Background from Image  
-- [`控制台`](https://ai.qq.com/console/application/create-app)-腾讯AI开放平台
-- [`Download free icons, music, stock photos, vectors`](https://icons8.com/)
+
 # 编程
 ## 在线编辑器
--  [`colab`](https://colab.research.google.com/drive/1vo-_GxKbOFpos4qPXRe6uKmsro5zRaMB)
--  [`GotGitHub &mdash; GotGitHub`](http://www.worldhello.net/gotgithub/index.html)
--  [`菜鸟教程在线编辑器`](http://www.runoob.com/try/runcode.php?filename=HelloWorld&type=python3) - python3
--  [`新浪博客`](http://control.blog.sina.com.cn/blog_rebuild/blog/controllers/articlelist.php?uid=3204823775&status=3)
--  [`Wunderlist`](https://www.wunderlist.com/#/lists/inbox) - Your beautiful and simple online to-do list app
--  [ `ToolFK在线工具`](https://www.toolfk.com/)  -ToolFk程序猿工具箱
 
 产品类别
 ===
