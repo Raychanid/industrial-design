@@ -7,6 +7,7 @@
 ![设计语言](http://github.com/raychanid/industrial-design/tree/images/images/7e311d3cdb676542c56f411fc7c2c0577b24223e4f0e5-w1oRO5_fw658.jpg)
 
 Title: Here is a title
+
 A->B: Normal line 
 B-->C: Dashed line 
 C->>D: Open arrow 
