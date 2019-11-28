@@ -6,6 +6,18 @@
  
 ![设计语言](http://github.com/raychanid/industrial-design/tree/images/images/7e311d3cdb676542c56f411fc7c2c0577b24223e4f0e5-w1oRO5_fw658.jpg)
 
+participant 客户端
+participant 服务器
+participant 通行证中心
+Note over 客户端: 用户输入通行证的账号、密码
+客户端->通行证中心: 发送账号、密码
+Note over 通行证中心: 验证账号、密码
+通行证中心-->>客户端: 返回token
+客户端->服务器: 发送token
+服务器->通行证中心: 验证token
+通行证中心-->>服务器: 验证成功
+服务器-->>客户端: 登陆成功
+
 ##  *日韩设计网站*
 
 - [ 日本デザインセンター | `Nippon Design Center, Inc.`](https://www.ndc.co.jp)
