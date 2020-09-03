@@ -1,20 +1,5 @@
 ![](https://img.shields.io/badge/Raychanid-ID-blue.svg)  
 
-//<div align=center><img src="https://img.shields.io/badge/Raychanid-ID-blue.svg" width="150" height="30"  alt="ID"/></div>//
-
-//Title: Here is a title
-A->B: Normal line 
-B-->C: Dashed line 
-C->>D: Open arrow 
-D-->>A: Dashed open arrow//
-
-Note left of A: Note to the\n left of A 
-Note right of A: Note to the\n right of A 
-Note over A: Note over A 
-Note over C,D: Note over both C and D
-
-
-
 
 ##  *日韩设计网站*
 
@@ -41,24 +26,23 @@ Note over C,D: Note over both C and D
 
 ## 灵感类网站
 
-- [`站酷 (ZCOOL) `](https://www.zcool.com.cn/)- 设计师互动平台 - 打开站酷，发现更好的设计！
-- [ 设计_`好奇心日报`](https://www.qdaily.com/categories/17.html)
+- [`站酷 (ZCOOL) `](https://www.zcool.com.cn/)  
+- [_`好奇心日报`](https://www.qdaily.com/categories/17.html)
 - [Product Design |` Yanko Design`](http://www.yankodesign.com/category/productdesign/)
 - [`Design Milk`  ](https://design-milk.com/)- Design Blog with Interior Design, Modern Furniture, and Art
 - [Product Design - `Core77`](https://www.core77.com/Product-Design/?utm_source=navigation)
 - [`designboom magazine` ](https://www.designboom.com//)- your first source for architecture, design and art news
-- [`Coroflot `](https://www.coroflot.com/) -  Design Jobs and Portfolios
-- [Products Archives - `The Cool Hunter` -The Cool Hunter](http://thecoolhunter.net/category/design/products/)
-- [`普象网`](https://www.pushthink.com/)-普象工业设计小站_工业产品创意设计_原创分享交流 
+- [`Coroflot `](https://www.coroflot.com/)  
+- [ `The Cool Hunter`  ](http://thecoolhunter.net/category/design/products/)
+- [`普象网`](https://www.pushthink.com/)
 - [`第二自然`](http://www.d2ziran.com/default/article.htm)
 
 ## 创意类网站
 
 创意
 >国内
->>- [ 创意设计 创意产品 创意广告 - `玩意儿`](http://www.cngadget.cn/)
->>- [ 设计  | `理想生活实验室`  ](https://www.toodaylab.com/field/302) - 为更理想的生活
->>- [`专利之家`](http://www.patent-cn.com/) -设计发明与创意商机 - 专利之家-设计发明与创意商机 
+>>- [  `理想生活实验室`  ](https://www.toodaylab.com/field/302)  
+>>- [`专利之家`](http://www.patent-cn.com/) 
 >>- [`专利检索及分析`](http://www.pss-system.gov.cn/sipopublicsearch/portal/uiIndex.shtml) - 需注册
 >>- [`趣味创意网 `](http://www.coopig.com/)
 >>- [`多新奇`](http://www.duoxinqi.com/)
@@ -67,12 +51,12 @@ Note over C,D: Note over both C and D
 >>- [`家生活 `](http://www.jcshome.com/)
 >>- [`一点点`](http://www.1diandian.net/)
 >>- [`好创意`](http://chuangyi.xdnice.com/)
->>- [`淘里乐`]http://www.taolile.com/)
+>>- [`淘里乐`](http://www.taolile.com/)
 >>- [`创意新生活网站`](http://cy899.com/)
->>- [`锐品创意网`](http://www.repink.net/
->>- [`哇噻网`](http://www.wowsai.com/zixun/zuichuangyi. html)
+ 
+>>- [`哇噻网`](http://www.wowsai.com/zixun/zuichuangyi.html)
 >>- [`网不易`](http://www.netnoease.com/)
->>- [`疯果`](http://www.fengguo.com.cn/)opus/index/
+>>- [`疯果`](http://www.fengguo.com.cn/opus/index/)
 >>- [`鱼罐头の美好视界`](http://fishcan.net/)
 >>- [`创意铺子`](http://www.ioioz.com/)
 >>- [`我爱搜罗网`](http://www.52souluo.com/)
