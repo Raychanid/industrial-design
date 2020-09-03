@@ -1,22 +1,20 @@
-![](https://img.shields.io/badge/Raychanid-ID-blue.svg)
-<div align=center><img src="https://img.shields.io/badge/Raychanid-ID-blue.svg" width="150" height="30"  alt="ID"/></div>
+![](https://img.shields.io/badge/Raychanid-ID-blue.svg)  
 
+//<div align=center><img src="https://img.shields.io/badge/Raychanid-ID-blue.svg" width="150" height="30"  alt="ID"/></div>//
 
-![品牌特征](http://github.com/raychanid/industrial-design/tree/images/images/1d46181d756e38b3c23e7cbe9da3d40fecea11532c49d0-qLxwVA_fw658.png)
- 
-![设计语言](http://github.com/raychanid/industrial-design/tree/images/images/7e311d3cdb676542c56f411fc7c2c0577b24223e4f0e5-w1oRO5_fw658.jpg)
-
-Title: Here is a title
-
+//Title: Here is a title
 A->B: Normal line 
 B-->C: Dashed line 
 C->>D: Open arrow 
-D-->>A: Dashed open arrow
+D-->>A: Dashed open arrow//
 
 Note left of A: Note to the\n left of A 
 Note right of A: Note to the\n right of A 
 Note over A: Note over A 
 Note over C,D: Note over both C and D
+
+
+
 
 ##  *日韩设计网站*
 
@@ -41,15 +39,6 @@ Note over C,D: Note over both C and D
 - [`K-DESIGN AWARD`](http://kdesignaward.com/exhibition)
 - [`视觉me设计社区- 设计师&插画师交流平台！`](http://shijue.me/)
 
-## 创意类网站
-
-- [ 创意设计 创意产品 创意广告 - `玩意儿`](http://www.cngadget.cn/)
-- [ 设计  | `理想生活实验室`  ](https://www.toodaylab.com/field/302) - 为更理想的生活
-- [`专利之家`](http://www.patent-cn.com/) -设计发明与创意商机 - 专利之家-设计发明与创意商机 
-- [ 设计 | `TOPYS 全球顶尖创意分享平台 OPEN YOUR MIND`](https://www.topys.cn/category/12.html)
-- [`专利检索及分析`](http://www.pss-system.gov.cn/sipopublicsearch/portal/uiIndex.shtml) - 需注册
-
-
 ## 灵感类网站
 
 - [`站酷 (ZCOOL) `](https://www.zcool.com.cn/)- 设计师互动平台 - 打开站酷，发现更好的设计！
@@ -63,9 +52,89 @@ Note over C,D: Note over both C and D
 - [`普象网`](https://www.pushthink.com/)-普象工业设计小站_工业产品创意设计_原创分享交流 
 - [`第二自然`](http://www.d2ziran.com/default/article.htm)
 
-## 翻墙类网站
+## 创意类网站
 
-
+创意
+>国内
+>>[ 创意设计 创意产品 创意广告 - `玩意儿`](http://www.cngadget.cn/)
+>>[ 设计  | `理想生活实验室`  ](https://www.toodaylab.com/field/302) - 为更理想的生活
+>>[`专利之家`](http://www.patent-cn.com/) -设计发明与创意商机 - 专利之家-设计发明与创意商机 
+>>[`专利检索及分析`](http://www.pss-system.gov.cn/sipopublicsearch/portal/uiIndex.shtml) - 需注册
+>>[`趣味创意网 `](http://www.coopig.com/)
+>>[`多新奇`](http://www.duoxinqi.com/)
+>>[`创意网`](http://www.fsdpp.cn/)
+>>[`创意汇`](http://www.yout (htimes.com/)
+>>[`家生活 `](http://www.jcshome.com/)
+>>[`一点点`](http://www.1diandian.net/)
+>>[`好创意`](http://chuangyi.xdnice.com/)
+>>[`淘里乐`]http://www.taolile.com/)
+>>[`创意新生活网站`](http://cy899.com/)
+>>[`锐品创意网`](http://www.repink.net/
+>>[`哇噻网`](http://www.wowsai.com/zixun/zuichuangyi. html)
+>>[`网不易`](http://www.netnoease.com/)
+>>[`疯果`](http://www.fengguo.com.cn/)opus/index/
+>>[`鱼罐头の美好视界`](http://fishcan.net/)
+>>[`创意铺子`](http://www.ioioz.com/)
+>>[`我爱搜罗网`](http://www.52souluo.com/)
+>>[`爱稀奇`](http://www.ixiqi.com/)
+>>[`创意悠悠花园`](http://www.uuhy.com/)
+>>[`先看看`](http://www.xiankankan.com/)
+>>[`后现代乐园`](http://www.911usa.com.cn/Blog/)
+>>[`海报网`](http://life.haibao.com/diy/519/)
+>>[`设计在线`](http://designlol.net/archives/category/inspiration)
+>>[`手工客`](http://www.shougongke.com/)
+>>[`奇趣发现`](http://www.qiqufaxian.cn/catalog.asp?cate=4)
+>>[`创意悠悠花园`](http://uuhy.com/html/category/creativehome)
+>>[`工业设计`](http://www.pplock.com/industrial-design)
+>>[`花园里`](http://www.inthatgarden.com/)
+>>[`苏打苏塔设计量贩铺`](http://sudasuta.com/category/life)
+>>[`有奇特`](http://www.uqite.com/)
+>>[`就爱创意网`](http://www.92cy.cn/)
+>>[`唯美系网`](http://www.weimeixi.com/cyzh/)
+>>[`爱北欧`](http://www.ibeiou.com/category/creative-products)
+>>[`奇创意`](http://www.7chuangyi.com/)
+>>[`奇特网`](http://www.qite.site/)
+>>[`煎蛋`](http://jandan.net/tag/%E5%88%9B%E6%84%8F%E4%BA%A7%E5%93%81)
+>>[`麦客加`](http://www.maikejia.com/creative. html)
+>>[ 设计 | `TOPYS 全球顶尖创意分享平台 OPEN YOUR MIND`](https://www.topys.cn/category/12.html)
+>>[`Aladd设计量贩铺`](http://aladd.net/archives/category/cat_ico29
+>>[`i D 公 社`](http://www.hi-id.com/)
+>>[`Since1984`](http://since1984.cn/blog/)
+>>[`simple style`](http://www.simple-style.com/category/art-design)
+>>[`Micro-Life`](http://www.micro-life.cn/)
+>国外
+>>[`Yatzer`](https://www.yatzer.com/)
+>>[`Dezeen`](http://www.dezeen.com/)
+>>[`Core77`](http://www.core77.com/)
+>>[`Design Milk`](http://design-milk.com/)
+>>[`Behance`](https://www.behance.net/galleries/6/Product-Design)
+>>[`Icecream`](http://www.fisherv.com/)
+>>[`The Cool Hunter`](http://www.thecoolhunter.net/)
+>>[`Digital Trends`](http://www.digitaltrends.com)
+>>[`Etsy`](http://www.etsy.com/)
+>>[`Ava Living`](http://www.avaliving.com/)
+>>[`2leep`](http://2leep.com/)
+>>[`Swiss Miss`](http://www.swiss-miss.com/)
+>>[`db-db`](http://db-db.com/inspires/)
+>>[`Marimekko & iittala`](http://www.finnstyle.com/)
+>>[`connox`](https://www.connox.com/)
+>其他
+>>[`创意一条街`](http://www.cyytj.com/)
+>>[`酷贝街`](http://www.kubeijie.com/)
+>>[`Pinkoi`](http://cn.pinkoi.com/)
+>>[`Luxury Life`](http://www.luxurylife.com.tw/)
+>>[`miimoo style`](http://www.miimoo.com/)
+>>[`创意生活`](http://new.yohobuy.com/lifestyle)
+>>[`无牌`](http://www.wupai.net)
+>>[`ZAKKA 杂货物语`](http://ooomi.com/l)
+>>[`OKJEE`](http://www.okjee.com/)
+>>[`想去`](http://www.xiangqu.com/)
+>>[`設計講`](http://www.hauscollection.com.tw/)
+>>[`趣玩网`](http://www.quwan.com/)
+>>[`生活家居`](http://www.xxlifexx.com/?cat=5)
+>>[`木智工坊`](http://mzgf.com/)   
+***
+>>翻墙类网站
 - [`pinterest`](https://www.pinterest.com/)
 - [`Behance` :: 策展库](https://www.behance.net/galleries/6/%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1?content=projects&queues=5)
 - [`Tumblr`](https://www.tumblr.com/dashboard#)
@@ -74,51 +143,9 @@ Note over C,D: Note over both C and D
 - [`Instagram`](https://www.instagram.com/terms/unblock/?next=/)
 - [`twitter`](https://twitter.com/)
 - [`Youtube`](https://www.youtube.com/)
-
-## 图片类网站
-
-[`Adobe Create Magazine`](https://create.adobe.com/)
-
-## 微信类资源
-### _素材收集_
-
-- [`意识夹`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E6%84%8F%E8%AF%86%E5%A4%B9&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=9021&sst0=1560393510677&lkt=1%2C1560393510574%2C1560393510574)
-- [`工业设计俱乐部`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1%E4%BF%B1%E4%B9%90%E9%83%A8&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=1093&sst0=1560393529236&lkt=1%2C1560393529133%2C1560393529133)
-- [`意翔设计`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E6%84%8F%E7%BF%94%E8%AE%BE%E8%AE%A1&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=943&sst0=1560393546460&lkt=1%2C1560393546358%2C1560393546358)
-- [`普象工业设计小站`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E6%99%AE%E8%B1%A1%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1%E5%B0%8F%E7%AB%99&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=1052&sst0=1560393562331&lkt=1%2C1560393562229%2C1560393562229)
-- [`Design360`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=Design360&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=1302&sst0=1560393578924&lkt=1%2C1560393578821%2C1560393578821)
-- [`灵感日报`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E7%81%B5%E6%84%9F%E6%97%A5%E6%8A%A5&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=1542&sst0=1560393650501&lkt=1%2C1560393650398%2C1560393650398)
-- [`设计癖`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E8%AE%BE%E8%AE%A1%E7%99%96&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=1028&sst0=1560393701611&lkt=1%2C1560393701508%2C1560393701508)
-- [`CMF设计军团号`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=CMF%E8%AE%BE%E8%AE%A1%E5%86%9B%E5%9B%A2%E5%8F%B7&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=1068&sst0=1560393717091&lkt=1%2C1560393716989%2C1560393716989)
-- [`几何四驱`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E5%87%A0%E4%BD%95%E5%9B%9B%E9%A9%B1&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=1485&sst0=1560393736692&lkt=1%2C1560393736589%2C1560393736589)
-
-### _数据收集_
-- [`三联生活周刊`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E4%B8%89%E8%81%94%E7%94%9F%E6%B4%BB%E5%91%A8%E5%88%8A&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=1134&sst0=1560393765387&lkt=1%2C1560393765284%2C1560393765284)
-- [`好奇心日报`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E5%A5%BD%E5%A5%87%E5%BF%83%E6%97%A5%E6%8A%A5&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=1685&sst0=1560393782091&lkt=1%2C1560393781989%2C1560393781989)
-- [`商业周刊中文版`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E5%95%86%E4%B8%9A%E5%91%A8%E5%88%8A%E4%B8%AD%E6%96%87%E7%89%88&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=1381&sst0=1560393807003&lkt=1%2C1560393806900%2C1560393806900)
-- [`经济学人`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=895&sst0=1560393824371&lkt=0%2C0%2C0)
-- [`第一财经YiMagazine`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8FYiMagazine&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=495&sst0=1560393842634&lkt=1%2C1560393842532%2C1560393842532)
-- [`哈佛商业评论`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E5%93%88%E4%BD%9B%E5%95%86%E4%B8%9A%E8%AF%84%E8%AE%BA&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=854&sst0=1560393858850&lkt=1%2C1560393858747%2C1560393858747)
-- [`环球时报globaltimes`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5globaltimes&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=815&sst0=1560393877827&lkt=0%2C0%2C0)
-- [`快公司FastCompany`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E5%BF%AB%E5%85%AC%E5%8F%B8FastCompany&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=744&sst0=1560393894436&lkt=0%2C0%2C0)
-
-### _其他_
-- [`罗辑思维`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E7%BD%97%E8%BE%91%E6%80%9D%E7%BB%B4&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=985&sst0=1560393913884&lkt=0%2C0%2C0)
-- [`锐普PPT`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E9%94%90%E6%99%AEPPT&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=504&sst0=1560393927779&lkt=0%2C0%2C0)
-- [`网易UEDC`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E7%BD%91%E6%98%93UEDC&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=368&sst0=1560393942538&lkt=1%2C1560393942435%2C1560393942435)
-- [`优秀网页设计`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E4%BC%98%E7%A7%80%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=136&sst0=1560393959386&lkt=1%2C1560393959283%2C1560393959283)
-- [`装饰杂志`](https://weixin.sogou.com/weixin?type=2&s_from=input&query=%E8%A3%85%E9%A5%B0%E6%9D%82%E5%BF%97&ie=utf8&_sug_=n&_sug_type_=&w=01019900&sut=1192&sst0=1560393975194&lkt=0%2C0%2C0)
-
- `装饰杂志`[^1]
-[1]:from 清华
-   
-4
->5
->>6
-
-
-***
 * * *
+>> 图片类网站
+>>>[`Adobe Create Magazine`](https://create.adobe.com/)
 ---
 - - -
 ___
